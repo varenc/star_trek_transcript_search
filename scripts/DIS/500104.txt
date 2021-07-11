@@ -1,0 +1,442 @@
+The Butcher's Knife Cares Not for the Lamb's Cry   
+Stardate: November, 2256  
+Original Airdate: 8 Oct 2017  
+
+
+[Quarters]
+
+(What looked at first sight like a planet with violent electrical storms turns out to be the replicator at work.)   
+COMPUTER: Burnham, Michael. Temporary assignment to science division, USS Discovery. Rank, none. Uniform synthesis is complete.   
+(Later, as she is fully dressed, but without an insignia, Tilly enters carring a large case.)   
+BURNHAM: Computer, cancel mirror.   
+TILLY: You look smart. It's a lot less scary than your convict suit. Like a clean slate, right?   
+BURNHAM: It's not quite as easy as that.   
+TILLY: Oh, this was sent for you. You were in the shower when the, er, ping went off and I... I was fully clothed so, I thought, well, I'll save you a trip to the depot.   
+BURNHAM: Tilly.   
+TILLY: Yes. Less. Less extraneous words. It's not gonna shut up till you open it.   
+(Burnham takes the case, puts it on a table and places her hand on the insignia.)   
+COMPUTER: Burnham, Michael. Do you accept the last will and testament of Captain Philippa Georgiou?   
+(Burnham puts the case under her bed.)   
+TILLY: I'm sorry, I didn't know.   
+CREWMAN [OC]: Michael Burnham to the bridge.   
+BURNHAM: I'll see you in Engineering. 
+
+[Turbolift]
+
+(Saru is already inside.)   
+BURNHAM: Bridge. Direct.   
+SARU: As first officer, I take pride in knowing every name and assignment on the crew manifest. You were to be on the prison transport shuttle that left yesterday.   
+BURNHAM: Captain Lorca offered me an opportunity. I can tell by your threat ganglia that you weren't consulted.   
+(What I thought was his hair at the end of the last episode.)   
+SARU: The captain keeps his own counsel. Had he inquired, I'd have suggested the duty roster lacked any opening for a mutineer.   
+BURNHAM: A valuable asset. That's what you called me.   
+SARU: I was speaking hypothetically. Politely. And as someone who was certain I would never see you again.   
+BURNHAM: You can tell your threat ganglia to relax. I'm only here to help.   
+SARU: My ganglia remain unconvinced. 
+
+[Bridge]
+
+LORCA: Scanners. Expedite my targeting sweep. Multi-spectrum, laterals included.   
+OWOSEKUN: Aye, sir. Scanners confirm two Klingon Birds-of-Prey.   
+DETMER: Targets heading away at offset vectors.   
+LORCA: Charge main phasers to full and take 'em out before they know we're here.   
+LANDRY: Charging. Vectors received.   
+OWOSEKUN: We've been located and are being scanned.   
+LORCA: Keep the warp engines topped hot. Landry, we're waiting.   
+LANDRY: Solution calculated. Firing main phasers. First target destroyed. Second Bird-of-Prey still in.   
+LORCA: I see it! Take it out!   
+DETMER: They're firing torpedoes.   
+LORCA: Shields to max.   
+LANDRY: Diverting power.   
+LORCA: Commander.   
+(A Bird of Prey hits them, the viewscreen whites out.)   
+LORCA: We're all dead. (sarcastic applause) Very nice. Very polite. The Discovery is now the only Starfleet ship with a displacement-activated spore hub drive. Which means, when it's up and running, we will be able to materialise anywhere in the known universe. Behind enemy lines, above the Klingon homeworld. Anywhere. But we will be alone. We will not have backup. There's just us. And we get one chance to get it right.   
+LANDRY: We'll do better next time, sir.   
+LORCA: It would be hard to do worse. Mister Saru, run the simulation again. And again. Burnham, with me.   
+SARU: You heard the captain. Computer, reload simulation.   
+COMPUTER: Working. 
+
+[Corridor]
+
+LORCA: We're the tip of the spear in a science vessel filled with wide-eyed explorers. You know what they need us to do, don't you?   
+BURNHAM: They need us to win.   
+LORCA: They need us to survive, Burnham. Wanna know how you're gonna help me do that?   
+BURNHAM: I'm happy to assist Lieutenant Stamets with the refinement of the spore drive.   
+LORCA: Said the xenoanthropologist.   
+BURNHAM: I also studied quantum mechanics at the Vulcan Science Academy, sir.   
+LORCA: I know. But I'm gonna put you to better use. 
+
+[Laboratory]
+
+BURNHAM: These are some of the deadliest weapons in the galaxy.   
+LORCA: I study war. And this is where I hone my craft. I try to learn from the best. Here. Now this I think you'll find uniquely interesting. You've met once before.   
+(It's the creature from the Glenn.)   
+LORCA: It has a natural aversion to light, same as me.   
+BURNHAM: Why would you keep something so dangerous onboard your own ship?   
+LORCA: That thing killed a dozen Klingons on the Glenn, and there's not a scratch on it from their bat'leths. If we're gonna win this thing, if we're gonna have a chance of saving the Federation and everyone in it, we need the best weapons available. So what material is in a claw that can shred the hull of a ship? What's a hide made of that can withstand the firepower of a phaser set to kill? I need you to find out. And weaponise it. 
+
+[Klingon ship]
+
+VOQ: T'Kuvma my lord, it has been six months since your ship was disabled and the war began. We are left behind in disrepair. Your followers are hungry. Help me guide them to nourishment.   
+L'RELL: You are an artist now?   
+VOQ: This is the orbit of every object we have scavenged through in the debris field. There are no Birds of Prey that we require to restart our engines.   
+L'RELL: There is one ship.   
+VOQ: We will not have this discussion again.   
+L'RELL: The Shenzhou is within range. It may have been abandoned, but it still has an intact dilithium processing unit.   
+VOQ: This is the very ship that felled T'Kuvma. To fuse its technology with our own would be blasphemy.   
+L'RELL: You had no such outrage when we ate its Captain. I saw your smile when you picked the meat from her smooth skull.   
+VOQ: As T'Kuvma perished in my arms, I swore to keep his fire lit. To resist assimilation, to lead his followers. But now they die slowly of hunger on this ghost ship. His legacy dies with them. I cannot allow it.   
+L'RELL: What good is purity if it only leads to death? My father was T'Kuvma's blood kin, but my mother was House Mokai, the watcher clan, the deceivers, the weavers of lies. When I was a child, she gave me a bat'leth and told me to cleave my own heart. To choose one House over the other. Instead, I built a bridge to serve both. Now it is your turn to build, to go into that graveyard and bring back the Shenzhou's processing unit for the good of your people. You must go to that ship. 
+
+[Laboratory]
+
+COMPUTER: Scans indicate a diet likely based on foraging for vegetation or other passive means of obtaining nutrition.   
+(Doors open and close.)   
+LANDRY: Lorca thought you and I would make a good team. Your science, my tactics. Together we can deal with Lorca's little monster.   
+BURNHAM: How do you know it's a monster, Commander?   
+LANDRY: Because I've seen what it's capable of. So have you. Let's call it Ripper. That's what it looks like. That's what it does.   
+BURNHAM: Your Ripper appears to share some natural traits with the Tardigrade species, a docile creature that lives in the waters of the Earth. A micro-animal capable of surviving e xtreme heat and subfreezing temperatures.   
+LANDRY: Did you say microscopic?   
+BURNHAM: In our case, somehow, macroscopic.   
+LANDRY: Huh. How did it get on the Glenn?   
+BURNHAM: All the recent logs were corrupted, but the Glenn's captain made an earlier entry that security detected a stowaway. There was no hull breach, and no unregistered microbiota in the transporter's pattern buffer, but this was found rummaging around in the lower cargo decks.   
+LANDRY: We need to find something Lorca can use on this thing. Poison sacs, pain inducers, rage glands.   
+BURNHAM: You judge the creature by its appearance, and by one single incident from its past. Nothing in its biology suggests it would attack, except in self-defence. Commander, this creature is an unknown alien. It can only be what it is and not what you want it to be.   
+LANDRY: It's amazing how much I hate Vulcan proverbs. You're new here, so let me share a piece of wisdom. Lorca isn't interested in what you are. He's interested in what you can do for him. And if he needs us to make that thing useful in his war effort, that's what we're gonna do. 
+
+[Ready room]
+
+LORCA: Admiral Cornwell.   
+CORNWELL [hologram]: I didn't realize you were eating, Captain.   
+LORCA: Excuse the breach of protocol.   
+CORNWELL [hologram]: We just received a distress signal from the planetoid Corvan 2, a mining colony   
+LORCA: Near the Aneto system. I know it.   
+CORNWELL [hologram]: Sending it through now.   
+RANCE [on screen] We're under Klingon attack. Our patrol ships have been destroyed. Our magnetic shields are degrading under bombardment. They will fail in six hours.   
+CHILD [OC] Daddy!   
+RANCE [on screen]: Find cover!   
+WOMAN [OC]: I can't find Andy!   
+RANCE [on screen] We need immediate evacuation. We need immediate evacu...   
+(End transmission.)   
+CORNWELL [hologram]: Corvan 2 generates 40 percent of the Federation's dilithium.   
+LORCA: If the pipeline's cut off, that's half the fleet grounded.   
+CORNWELL [hologram]: The Klingons ambushed the blockade that was protecting the colony, and now the closest Federation ship is 84 hours away. Yours is the only ship in the fleet with a chance of getting there on time. Is the Discovery ready to jump?   
+LORCA: I told you we'd be ready when you called, and we are. Discovery's made dozens of small jumps with no issues. We can make it the full distance.   
+CORNWELL [hologram]: You have no doubts?   
+LORCA: None. 
+
+[Engineering]
+
+STAMETS: There's no way we'll be ready to jump that far.   
+LORCA: You told me you knew why the Glenn failed.   
+STAMETS: The Glenn crashed into an undetectable Hawking radiation firewall when it exited from a mycelial plane. As a result, all the biologicals onboard spun out.   
+LORCA: You can prevent that from happening again, right?   
+STAMETS: Yes.   
+LORCA: So what's the problem?   
+STAMETS: Captain, as I've explained to you, every time we try a long jump, we lose navigational stability. Remember? Jumping is probabilistic. The longer the jump, the more possible outcomes.   
+LORCA: I get it. It's trial and error. Let's try something.   
+STAMETS: We lack the processing power to make the requisite number of calculations to hold a course.   
+LORCA: So what were they doing that we're not?   
+STAMETS: We took this tech from Straal's lab on the Glenn. It was an augmentation to their navigation system. I've incorporated it into our drive unit. But it won't load completely. To function optimally, it would appear to require some kind of supercomputer.   
+LORCA: You must have missed that on the Glenn.   
+STAMETS: Sir, being chased by a lethal monster in a death trap surrounded by Klingon bodies is distracting, but, no, I would've noticed an extra supercomputer. That's just me.   
+LORCA: What's that thing? That thing is what we took off the Glenn. It interacts with the spore drive somehow, but I think it's missing a part or something. I can't get it to activate.   
+SARU: Ahem. In exactly five hours, 49 minutes and 46 seconds, the Klingons will take Corvan 2.   
+STAMETS: Captain, this can't be rushed.   
+LORCA: Now you listen to me, Mister Stamets. They need us. Now.   
+STAMETS: There are some things I could try to extend the jump range.   
+LORCA: Get it done.   
+STAMETS: You're welcome. 
+
+[Klingon ship]
+
+(A Klingon beams in.)   
+VOQ: Kol. What is the reason for your welcome visit?   
+(Kol kneels.)   
+KOL: The last time I was here, on the eve of the war, I hurled disrespect. Now I come with humility.   
+VOQ: T'Kuvma teaches that in a united Klingon Empire, no one kneels but our foe.   
+KOL: (stands) Wise words. But words don't win wars. Your House's ship has what no one else has. Cloaking technology that can crush Starfleet. We need you back in the fight.   
+VOQ: We have scavenged the dead vessels floating around us in the graveyard left by our battle with Starfleet. Six months since that fight, we are almost operational again. But we still lack a dilithium processor. We are almost out of food too. But as T'Kuvma taught us, what belongs to House T'Kuvma belongs to House Kor.   
+KOL: May the words of your messiah, our messiah, also sustain us. Remain Klingon!   
+ALL: Remain Klingon. tlhIngan maH. taHjaj! 
+
+[Bridge]
+
+STAMETS [OC]: Captain, be advised, the spore drive is online and primed.   
+LORCA: Primed? Can you control where we're going or not?   
+STAMETS: It's possible, maybe even likely, but   
+LORCA: Done. Open shipwide communication.   
+CREWMAN: Yes, Captain.   
+LORCA: Attention all personnel. Stealth protocol. Run silent. Black alert.   
+COMPUTER: Black alert. Black alert.   
+LORCA: All crew to battle stations. We need to be ready for whatever's on the other side of that jump.   
+SARU: Disengage shields.   
+OWOSEKUN: Shields are offline. standing by.   
+STAMETS [OC]: Loading spores into the drive.   
+LORCA: Drive?   
+AIRIAM: Excess energy cavitation initiated.   
+(Different bits of Discovery's saucer section rotate in opposite directions, making saucer separation look really primitive. In the lab, the Tardigrade is frantic.)   
+SARU: Tactical. Reroute all available power from impulse over to phasers.   
+LANDRY: Weps are double hot.   
+SARU: Engineering? 
+
+[Engineering]
+
+STAMETS: Spore drive is online. Plot destination for Corvan 2. 
+
+[Bridge]
+
+SARU: At your pleasure, Captain.   
+LORCA: Go.   
+(The Discovery jumps.)   
+SARU: Sensors indicate external temperature of... They went offline. It's too hot.   
+LORCA: That is not Corvan 2.   
+SARU: No, sir, it is not.   
+DETMER: Stuck in a gravity well of an O-type star. Collision is imminent.   
+LORCA: Collision is not an option. Shields up. Full reverse. Wrong off-ramp, Lieutenant Stamets. 
+
+[Engineering]
+
+STAMETS: My nav buffer overloaded. I couldn't hold the plotting. (a judder makes him bump his head against the console) Ow! 
+
+[Bridge] 
+
+DETMER: Rear thrusters engaging.   
+SARU: We are clear of the gravitational well.   
+LORCA: Re-engage warp drive. Get us the hell out of Dodge, Mister Saru.   
+SARU: Aye-aye, Captain. 
+
+[Laboratory]
+
+LANDRY: This had better be good. Lorca's on the warpath.   
+BURNHAM: Look. The moment the spore drive came online, the creature's central nervous system showed micro-patterns of activity in the frontopolar cortex.   
+LANDRY: You said it hates light. Maybe it didn't wanna crash into the sun.   
+BURNHAM: It reacted before we jumped. I saw it cry out in distress. It's more likely a connection to the spore drive itself.   
+LANDRY: I don't see how that's relevant to Ripper's aggression.   
+BURNHAM: It may not be, but it helps us understand its motives and behaviour.   
+LANDRY: Understanding how it feels was not our mission. The Captain needs to know how it fights and kills. Lorca told me to keep you on track. That your curiosity might lead you astray. We're not letting him down. 
+
+[Sickbay]
+
+(Stamet's broken nose is being treated.)   
+CULBER: Hold still or you'll wind up looking like a Tellarite.   
+LORCA: How's the patient, Doctor Culber?   
+CULBER: Well, I took care of the skull fractures first. Another millimetre, and the palatine bone would've pierced his cortex.   
+STAMETS: The frontal lobe is overrated. It only contains memory and emotional expression. It's completely unnecessary.   
+CULBER: Well, I'll save it. You know, just in case you might wanna have a feeling one day.   
+LORCA: Gentlemen. Every starship in the galaxy, Klingon or Federation, runs on dilithium crystals. If we can't protect Corvan, the war is lost. So, can you fix the Lieutenant's inability to get our ship to go where it's supposed to go?   
+STAMETS: I warned you, Captain. Time is an essential component of good science.   
+LORCA: Discovery is no longer a science vessel. It's a warship.   
+STAMETS: That is not the mission I signed on for. I'm not a soldier.   
+LORCA: Well then, get off. Leave the ship.   
+STAMETS: If I go, I'm taking everything with me. My spores, my drive. This entire ship was designed around my scientific specialty.   
+LORCA: Everything on this ship is the property of Starfleet, Lieutenant. How do you want to be remembered in history? Alongside the Wright Brothers, Elon Musk, Zefram Cochrane? Or as a failed fungus expert, a selfish little man who put the survival of his own ego before the lives of others.   
+STAMETS: Are you done?   
+CULPER: Well, you have some blood on your face.   
+LORCA: And your hands, Lieutenant. Get back to work. Fix the problem.   
+(Stamets stomps out of sickbay.)   
+LORCA: Er, computer, open a shipwide hail.   
+COMPUTER: Working. Confirmed. Broadcasting shipwide.   
+LORCA: Computer, play the audio transmissions from Corvan 2.   
+RANCE [OC]: This is my last message. Another round of bombs just struck. Zaphod is dead. Our bunker is collapsing.   
+GIRL [OC]: Mommy, Mommy, wake up. Wake up.   
+WOMAN [OC]: Please, save my children. Anyone. Help them.   
+RANCE[OC]: We've lost mine 4 and mine 7. Two hundred and ten souls, all gone. Particulate venting is offline. My team can't breathe. I don't know if anyone is listening to this, but if you are, goodbye. 
+
+[Laboratory]
+
+LANDRY: We're doing this. Computer, release a localised oneirogenic penthrane mist into the containment pen.   
+(She gets a phaser rifle from a locker.)   
+BURNHAM: Wait, wait. Why are you sedating it?   
+LANDRY: I'm gonna lop off its claw so you can figure out what makes this thing so good at killing Klingons.   
+BURNHAM: I do not think that's a good idea. We have no idea what effect sedation may have on it. And we've seen how it responds to aggression.   
+COMPUTER: Sedation protocol complete.   
+LANDRY: Computer, open containment pen.   
+(A very active Tardigrade leaps out, knocking them both down. Landry tries shooting at it. It runs across the ceiling and lands on her.)   
+BURNHAM: Computer, lights to maximum.   
+(The Tardigrade throws Landry across the room and gallops back into its nice dark pen.)   
+BURNHAM: Computer, seal containment pen. Emergency transport. Sickbay. 
+
+[Sickbay]
+
+(Culper shakes his head.)   
+LORCA: Find a use for that creature. Don't let her death be in vain. 
+
+[Wreck of the Shenzhou]
+
+(No artificial gravity. A space-suited Klingon gets a piece of equipment.)   
+COMPUTER: Atmosphere pressurisation complete.   
+(Voq releases his helmet and grabs a passing PADD.)   
+PADD: Crew manifest accessed.   
+VOQ: L'Rell, there is nothing worth taking on this deck or in the Captain's Ready room.   
+L'RELL: I have located the dilithium processor. The coupling unit is covered in crystal residue. Unplugging the processor could cause an explosion. One sudden move and we join the Black Fleet.   
+VOQ: I will free it. L'Rell, we do not always view things the same way, but I have come to know you as one who is astute. More astute than I.   
+L'RELL: Thank you, my lord.   
+VOQ: Why do you call me that?   
+L'RELL: T'Kuvma made you his successor.   
+VOQ: Surely you doubted his choice. T'Kuvma barely knew me, while you served at his side for years.   
+L'RELL: T'Kuvma saw something in you. A purity of devotion. I do not want the mantle of leadership. Standing behind you I am free to move, able to be your enforcer, defender, campaigner.   
+VOQ: I am fortunate to have you.   
+L'RELL: Shall we uncouple?   
+(He removes the unit and the ship's power finally dies.)   
+VOQ: Thank T'Kuvma. With this, our ship will fly. 
+
+[Laboratory]
+
+BURNHAM: Door.   
+(Saru enters.)   
+SARU: I received your message. What is it you so urgently need my help with?   
+BURNHAM: I've been thinking about the way I treated you on the Shenzhou. At times I was very unfair.   
+SARU: You often undermined me, dismissed my opinions out of hand.   
+BURNHAM: You wouldn't be wrong to call me out for being selfish. But I can't help notice that your threat ganglia are quiet now. Fascinating.   
+SARU: You're trying to gauge my response to that thing in the pen, aren't you?   
+BURNHAM: Commander Landry was about to attack the creature, and I believe her death was an act of self-defence on its part. And now, based on your lack of threat response, I'm ready to submit that the creature's primary drive is not aggressive. It's not a predator.   
+SARU: You have not changed an iota, Burnham. Your contrite words were insincere.   
+BURNHAM: They were necessary.   
+SARU: I was wrong to question your place on the crew. You will fit in perfectly with Captain Lorca.   
+(Saru leaves.)   
+BURNHAM: Why were you on the Glenn? What were you looking for?   
+(Later, Tilly brings a container to the lab.)   
+BURNHAM: Spores are the thing the Discovery and Glenn had in common.   
+TILLY: Stamets would kill me if he knew I was bringing these.   
+BURNHAM: You should probably go. I appreciate you taking the risk, but this could be dangerous.   
+TILLY: Unless we get the drive online, we're not gonna make it to Corvan 2. All those people are gonna die, and I can't help them. I can help you.   
+BURNHAM: Stay back. Keep still. (to the Tardigrade) I brought you something I think you might like. If you don't, well, they can blame whatever happens on my curiosity. Computer, open containment pen.   
+(Burnham places the container inside the pen and opens it. The Tardigrade snuffles at the spores, then Burnham.)   
+BURNHAM: Hello. 
+
+[Engineering]
+
+BURNHAM: These are Tilly's tricorder images from our mission on the Glenn. Look. The doors to the Engineering room were blown outward. The shatter pattern of the reaction cube, the destruction, like something inside was going crazy. A very big something. Then there's excess shielding surrounding the room. It's as if the crew was trying to keep something in.   
+STAMETS: What's your hypothesis? That Straal was holding that thing in his lab?   
+BURNHAM: Captain's log said they found the creature in their lower decks. I remember you chided Straal about not growing his own like you do. You were talking about mushrooms. They didn't have a forest on the Glenn like Discovery has. If they stored their mushrooms dry, it would have to be in tremendous quantities in their lower stores, right there, where the creature first appeared.   
+STAMETS: It entered the ship in pursuit of the mushrooms.   
+BURNHAM: Their spores, actually. This ship's spore drive travels on a network of mycelium that's spread across the entire galaxy. We just can't control where we go. But maybe the Tardigrade can. Straal said he found a way to solve the navigation problem. You said his modifications needed a supercomputer, right? What if its name is Ripper? 
+
+[Fungi forest]
+
+BURNHAM: The phaser will only piss him off.   
+STAMETS: Think of it as a placebo for my scepticism. Energise.   
+(The Tardigrade is beamed in and starts cavorting amongst the plants.)   
+STAMETS: My God, you're right. Look how it interacts with the spores. It's as if they're communicating.   
+BURNHAM: My tricorder is detecting energy transfer. Some form of symbiosis. It is talking to them.   
+STAMETS: That hardly seems fair. I always wanted to converse with my mushrooms.   
+BURNHAM: Not just converse. Maybe even tell them where to go. If we can figure out how to interact with that tech from the Glenn, we may be looking at our new navigator. 
+
+[Klingon ship]
+
+(A feast is in progress when L'Rell and Voq return.)   
+VOQ: What is this?   
+KOL: Provisions. From my ship. I provided some, and your crew fell in line behind me. The price of loyalty is low for those who are starving. You've failed. You are as useless as you are ugly, son of none.   
+VOQ: T'Kuvma anointed me. I am the Torchbearer.   
+KOL: And for that privilege, you allowed a human to extinguish his light.   
+VOQ: The star of Kahless was lit by T'Kuvma. The great Houses are now together as one.   
+KOL: Only until we defeat the Federation, then we will divide again. But your strange ship, her crew and cloaking technology, will now serve me.   
+VOQ: I would sooner die.   
+(L'Rell steps between the two males, then holds up the dilithium converter unit.)   
+L'RELL: It is yours, my lord.   
+(Kol takes it, and L'Rell grabs a piece of cooked meat. Kol laughs.)   
+KOL: Kill him.   
+L'RELL: I know a more fitting fate. Dump him in the grave of our enemy. 
+
+[Bridge]
+
+LORCA: Let's try this again. Corvan 2. Black alert.   
+COMPUTER: Black alert.   
+LORCA: Mister Stamets, are you ready?   
+COMPUTER: Black alert. 
+
+[Engineering]
+
+STAMETS: Stand by, Captain. Energise. We just transported the Tardigrade into the reaction cube. The tech from the Glenn is activating.   
+(It clamps onto the Tardigrade, which squeals.)   
+STAMETS: This is every charted star system. The Tardigrade is holding all these coordinates in its head. Course is set for Corvan 2. We're ready to jump, sir. 
+
+[Bridge]
+
+LORCA: Is anybody not ready? Go. 
+
+[Corvan 2]
+
+(Shields dropping below 4%.)   
+RANCE: Take cover!   
+(The shield fails.)   
+RANCE: It's okay.   
+(Discovery jumps in as the Klingons are on their attack run, and blasts them to atoms.) 
+
+[Bridge]
+
+SARU: Targets one and two destroyed.   
+LORCA: Full stop.   
+SARU: Captain?   
+DETMER: Initiating full stop, Captain.   
+OWOSEKUN: Multiple Klingon vessels converging.   
+SARU: Diverting nonessential power to shields.   
+DETMER: The Birds are at 1,000 kilometres and closing.   
+OWOSEKUN: Their phasers are locked, Captain.   
+LORCA: Hold tight, everybody. Steady.   
+SARU: Shields holding at eighty percent. Seventy five. Sixty five.   
+LORCA: Engineering? 
+
+[Engineering]
+
+STAMETS: Spore drive is primed, Captain. 
+
+[Bridge]
+
+LORCA: On my order.   
+OWOSEKUM: Birds of Prey closing in at 500 kilometres.   
+SARU: Shields at 30 percent. 
+
+[Engineering]
+
+STAMETS: Coordinates input. 
+
+[Bridge]
+
+SARU: Twenty. Captain.   
+AIRIAM: Lieutenant Stamets advises that the ship is ready to jump.   
+LORCA: I need them closer. Wait. Let's send our Klingon friends a message they won't forget. And... go.   
+(The Discovery spins out, and the Klingons fly into each other, kaBOOM!) 
+
+[Corvan 2]
+
+(Debris rains down on the surface.)   
+GIRL: Who saved us?   
+(The Discovery returns to normal space. The Tardigrade is uncoupled from the machine, and it wails.) 
+
+[Wreck of the Shenzhou]
+
+(Voq listens to the PADD reciting the crew manifest.)   
+PADD: Commander Michael Burnham. Vulcan Science Academy commencement, 2249. Recipient, Vulcan Science   
+(He snaps the PADD in two.)   
+VOQ: T'Kumva my lord, they left me here to die in the nest of the vermin who took your life. My faith tells me this is not the end.   
+(The Klingon ship jumps to warp.)   
+VOQ: My faith tells me this is not the end!   
+L'RELL: Voq.   
+VOQ: You renounced me.   
+L'RELL: TO save your life. It won't be long before Kol realises I'm gone.   
+VOQ: We need to go after them, make House T'Kuvma whole again.   
+L'RELL: They belong to Kol. Now we must strategise on a grander scale. In order to convince the twenty four Houses to follow T'Kuvma's teachings, you must win this war. Prove to all you are the one true Torchbearer.   
+VOQ: You speak as if you have a way.   
+L'RELL: I do. I've stolen a raider and will take you to the home of the Mokai. I will leave you with the matriarchs who will expose you to things you never knew possible. But it comes at a cost.   
+VOQ: What must I sacrifice?   
+L'RELL: Everything. 
+
+[Laboratory]
+
+(Burnham brings a container of spores.)   
+BURNHAM: Computer, open containment pen. Hey, you feeling better? I brought you the good stuff. I'm sorry. 
+
+[Quarters]
+
+(Burnham is lying on her bed when Tilly enters. The case is still beeping like an unread text message.)   
+TILLY: Hi. Long night, huh? Everybody's talking about what you did. You helped save many on that colony. Seems like you're gonna have another reputation to get used to. It's probably none of my business, but my mother used to say, er... That's not true. My mother never really said anything to me unless she was criticising my hair. But you... I don't know, I just think if it made its way across the galaxy to find you, you should open it. And you shouldn't be afraid to open it, because I watched you tame the most incredible creature, and, well you're not afraid of anything. That's none of my business, right?   
+(Tilly leaves. Burnham gets the case out.)   
+COMPUTER: Identity confirmed. Burnham, Michael. Do you accept the last will and testament of Captain Philippa Georgiou?   
+BURNHAM: I accept.   
+GEORGIOU [hologram]: Hello, Michael. I hope that wherever this finds you, you are well. I imagine you have your own command now. The Captain of your own ship. I have always tried to show you by example. The best way to know yourself is to know others. You are curious, an explorer, so I am leaving you my most beloved possession, handed down through my family for centuries. My hope is that you will use it to continue to investigate the mysteries of the universe, both inside and out, and keep your eyes and heart open always. Goodbye, Michael, and good luck. Know that I am as proud of you as if you were my own daughter. Take good care. But more importantly, take good care of those in your care.   
+(The case opens to reveal a slightly battered old refractor telescope with viewfinder.)   
+---  
+  
+Star Trek ® is copyright of  CBS Studios Inc . Copyright (C) 1966, Present. The Star Trek web pages on this site are for educational and entertainment purposes only. All other copyrights property of their respective holders.

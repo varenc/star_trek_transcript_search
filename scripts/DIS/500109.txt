@@ -1,0 +1,430 @@
+Into the Forest I Go   
+Stardate: Unknown  
+Original Airdate: 12 Nov 2017  
+
+
+[Bridge]
+
+TERREL [hologram]: We have ordered all active starships back behind Federation lines. Retreat, Captain. That is an order.   
+LORCA: With the Ship of the Dead on the way here?   
+TERREL [hologram}: Yes. Kol's next strategic move will be to destroy the transmitter, thus eliminating any chance of the Federation gaining an upper hand. But we cannot risk losing the Discovery over this.   
+LORCA: Need I remind you the Klingons don't take threats lightly? By seeming to align themselves with us, the Pahvans just became one. That ship can and will destroy an entire planet in the blink of an eye.   
+TERREL [hologram]: Your mission to Pahvo was to give us the advantage we sorely needed, but that mission failed. We have gathered the top scientific minds to devise a solution to crack the invisibility screens that cloak the Klingon warships within the safety of Federation space. Your crew is to join the effort.   
+LORCA: You want me to run from a fight and leave a peaceful species to face annihilation.   
+TERREL [hologram]: I'm sorry, but the logic is clear. You will jump to Starbase 46. Immediately.   
+(Communication ends.)   
+LORCA: Lieutenant Detmer. Set a course for Starbase 46. Warp five.   
+DETMER: Yes, Captain.   
+SARU: Sir, the Pahvans are more vulnerable than Admiral Terral could possibly understand. Please, if I could only speak with him and relay my experience with their peace-loving species.   
+LORCA: At this speed, they'll be expecting us in three hours at Starbase 46. That's why we're warping and not using the spore drive. I have no intention of reaching our destination. But if you're planning on disobeying a direct order, best not to advertise the fact. So, you all heard the panicked Admiral. Starfleet is tired of fighting the Klingon cloaking devices and losing. So am I. We have just under three hours to find a solution. If we can, we jump back, defend Pahvo. If we can't... Let's get to it. Lieutenant Stamets. I'm gonna need some reasonable explanation for Starfleet as to why we're currently not using the spore drive. I understand you've had some trouble with your interface upgrades.   
+STAMETS: Now that you mention it, has been a little itchy.   
+LORCA: That's unfortunate. Get down to medical bay, get a full examination.   
+STAMETS: Is... is that completely necessary, sir?   
+LORCA: It's obligatory. I want Doctor Culber to run every single test possible. We need the data trail.   
+(Later.)   
+LORCA: Two hours before we arrive at the Starbase. Less than that, probably before the Klingons arrive at Pahvo. Tell me you have a solution.   
+BURNHAM: Currently We suspect the Klingon cloak generates a massive gravitational field, one that bends light and other electromagnetic waves around the ship.   
+SARU: Essentially rendering it undetectable to our sensors.   
+BURNHAM: But the cloak has small imperfections, so what appears like background EM radiation actually contains near-imperceptible shifts that correlate to the cloak's gravitational field.   
+SARU: If we can determine the exact relationship between the two, we could develop an algorithm to expose any invisible ship's position.   
+LORCA: The imperfections are infinitesimal. How do we detect them?   
+SARU: By placing sensors onboard the Klingon ship to relay data back to Discovery.   
+LORCA: On the ship? With a boarding party? One that has to physically beam over? All right. How do we get our people there?   
+TYLER: The Klingons know that Discovery is a valuable target. We use it as bait to draw their flagship away from Pahvo. They'd have to drop the cloak to engage us in battle.   
+BURNHAM: Their shields and weapons are offline when they're invisible, so it gives us a small window to beam over after the cloak is down, but before their shields go up.   
+SARU: The team on board the Klingon ship will install two sensors. Every time it cloaks, we gather readings.   
+BURNHAM: There is a problem, though, sir. It will take time to gather sufficient data.   
+LORCA: How much time?   
+BURNHAM: Days.   
+LORCA: Well, we don't have days, but we do have a spore drive. 
+
+[Sickbay]
+
+LORCA: Gentlemen. Starfleet brass is awaiting a full report on the Lieutenant's condition.   
+CULBER: Well, you wanted evidence of an issue with your navigator? You've gotten more than you've asked for. Lieutenant Stamets' scans show a restructuring of the tracks within the white matter of his medial temporal lobe.   
+LORCA: Have you experienced any side effects as a consequence of that?   
+STAMETS: No, Captain.   
+LORCA: Okay.   
+CULBER: Well, I'm not ready to play roulette with his brain.   
+LORCA: Duly noted, Doctor. Send the report directly to me.   
+CULBER: Captain   
+LORCA: To me, Doctor, and I shall read it. Lieutenant, follow me. 
+
+[Ready room]
+
+STAMETS: You want me to make 133 jumps?   
+LORCA: Micro-jumps. Each one performed in rapid succession will provide a three-dimensional snapshot of the cloaked Klingon ship's position. The readings will be received from every necessary vector in under four minutes.   
+STAMETS: That will give us the data to calculate the algorithm, but it'll take time to compute something that complex.   
+LORCA: I have faith in Mister Saru.   
+STAMETS: Captain, there has to be another way. You   
+LORCA: I wish there were. I wish I didn't have to ask you to make this sacrifice, but the Klingons won't stop until they've destroyed everything, everyone. And we can't stop them without the spore drive. Without you.   
+STAMETS: But you're asking us to use the drive in ways we've never conceived of. The spore-delivery system isn't configured to handle the amount of volume that would be required.   
+LORCA: And that's gonna stop you? I don't think so. I know what drives you, Lieutenant. You're not just a scientist, you're an explorer. You could've stayed in a lab on Earth, but you chose to go where no one has gone before. Let me show you something.   
+STAMETS: You've been accumulating this data from my jumps the whole time?   
+LORCA: Mmm-hmm.   
+STAMETS: And these scattered pockets of negative mass, it's... They could indicate alternative parallel universes connected to the mycelial network. And with more jumps, we could find a pattern, perhaps even the coordinates to reach them.   
+LORCA: You showed me this invention could take us to places that we never dreamed we could reach. Places far beyond our preconceptions of time and space.   
+STAMETS: Captain, I didn't know you cared.   
+LORCA: We have to win this war. But then...   
+STAMETS: Then the journey continues. If we can save Pahvo, defeat the Klingons, and do all this? 133 jumps it is. 
+
+[Bridge]
+
+LORCA: Lieutenant Tyler, prep a boarding party for the Klingon ship. Two people, in and out.   
+TYLER: I recommend Specialist Burnham accompany me, sir.   
+LORCA: Out of the question. It's too dangerous.   
+BURNHAM: The effectiveness of our sensors depends on their placement at the points closest to the Klingon vessel's stern and bow. But their Bridge is roughly four times the size of any Federation ship. I've been there. Only one location will work. Lieutenant Tyler doesn't know how to access it. I do.   
+LORCA: Then you'll tell someone else where it is. You're not going.   
+BURNHAM: Sir, you offered me a place on this ship   
+LORCA: And now I'm ordering you to stay. Is that understood?   
+BURNHAM: You are the Captain, but you are not using the full resources to ensure the success of your mission. There is no logic to your thinking. Unless this is about me. I'm here on borrowed time. When you asked me to stay, it was to help you win this war. Given the time I spent on that Klingon vessel, I'm the most qualified crew member to place those sensors. Otherwise, I have no purpose here.   
+LORCA: Fine. Execute the mission as ordered, and get back here safely.   
+BURNHAM: Thank you, Captain. 
+
+[Engineering]
+
+CULBER: I know better than to ask you not to do this, but I will ask you to allow me to take precautions.   
+TILLY: I'm so glad he finally told you about the side effects.   
+CULBER: Side effects?   
+TILLY: Oh my God, oh my God, I'm sorry. I just assumed... CULBER No, it's okay, Tilly. I'm sure the Lieutenant has a good explanation for keeping that a secret.   
+STAMETS: Hugh.   
+CULBER: There's no time. This cuff will let me treat you while you're in the chamber.   
+(Stamets gets attached to the spore drive.)   
+LORCA [OC]: We are about to face the most difficult challenge we have ever attempted. 
+
+[Bridge]
+
+LORCA: Today, we stare down the bow of the Ship of the Dead. The very same ship that took thousands of our own at the Battle of the Binary Stars. When I took command of this vessel, you were a crew of polite scientists. Now, I look at you, and you are fierce warriors all. No other Federation vessel would have a chance of pulling this off. Just us. Because mark my words, you will look back proudly, and tell the world you were there the day the USS Discovery saved Pahvo and ended the Klingon war.   
+RHYS: Sir, long-range sensors have detected the power signature of a cloaked Klingon vessel entering Pahvo's orbit.   
+SARU: Transporter room, stand by.   
+LORCA: Black alert.   
+COMPUTER: Black alert.   
+LORCA: Let's jump back to Pahvo. 
+
+[Klingon ship]
+
+KLINGON: My Lord, It's the USS Discovery. They've appeared in orbit around Pahvo. Their weapons are online.   
+KOL: Hmm. So Starfleet sends their most prized, enchanted vessel to defend the planet alone. The humans are fools. Prepare to drop cloak and fire. We will storm her decks, execute her crew, and take her storied weapon for our own. We will destroy this hideous planet Pahvo and its transmitter. This war will be ours!   
+KLINGONS: This war will be ours!   
+(They decloak.) 
+
+[Transporter room]
+
+CREWMAN [OC]: Astrometrics to Bridge. Requesting sensor priority   
+TYLER: These pattern simulators will mask our human life signs.   
+(Tyler and Burnham squat down.)   
+TRANSPORTER CHIEF: Locking on. Got it. 
+
+[Bridge]
+
+SARU: Sir, Lieutenant Tyler and Specialist Burnham have successfully beamed aboard the Klingon vessel.   
+LORCA: Excellent. Detmer, evasive pattern lambda ten. Let's keep the Klingons engaged so Burnham and Tyler can plant those sensors.   
+DETMER: Gonna be a bumpy ride. 
+
+[Klingon ship]
+
+TYLER: Clear.   
+BURNHAM: Pattern simulators are online. Our life signs are masked as Klingon. First drop point is six hundred metres this way.   
+TYLER: Let's get moving. 
+
+[Storage bay]
+
+COMPUTER: Uplink to Discovery established.   
+TYLER: Which way to the Bridge?   
+BURNHAM: Out this door, down that passage.   
+TYLER: One down, one to go.   
+(Awaiting second sensor.) 
+
+[Klingon corridor]
+
+BURNHAM: I'm detecting a human life sign onboard.   
+TYLER: None of our intel on General Kol pointed to a potential Federation prisoner.   
+BURNHAM: If we have a chance to rescue one of our people, we have to take it.   
+TYLER: Burnham, we can't deviate from the mission.   
+BURNHAM: The life sign isn't far from the Bridge. Just on the opposite side. It might even provide us a location to wait out the jumps. I have to bring everyone home.   
+TYLER: Mmm-hmm. 
+
+[Outside a door] 
+
+TYLER: You have sixty seconds to crack that, or we proceed to the Bridge. Let me try. Hi. Spent seven months in a Klingon prison?   
+(He prises open the door lock cover and cuts the fibreoptic cables. Tyler pushes the door open, and shuts them again. It's the room with the Klingon bodies.) 
+
+[Burial chamber]
+
+(And L'Rell has been locked in here too.)   
+BURNHAM: Admiral.   
+(Tyler keeps his phaser trained on L'Rell as Burnham revives Cornwell.)   
+L'RELL: It's you.   
+BURNHAM: Admiral, I'm Specialist Burnham. Can you move?   
+CORNWELL: I can't feel my legs.   
+BURNHAM: Tyler.   
+(Tyler is having flashbacks to his torture. Burnham shoots L'Rell.)   
+BURNHAM: Tyler! Here. I'm here. I'm here. Here, come on.   
+CORNWELL: Is he injured?   
+BURNHAM: He was a victim of Klingon torture.   
+CORNWELL: State your mission, Specialist Burnham.   
+BURNHAM: Captain Lorca dispatched us to install sensors aboard this ship so we could break the Klingon cloak.   
+CORNWELL: I've treated patients with PTSD symptoms. He's in shock. He's not gonna be of any help to you anytime soon.   
+BURNHAM: I have to make it to the Bridge.   
+CORNWELL: You're leaving me?   
+BURNHAM: I don't have a choice. Here. (gives her a phaser) Discovery'll beam us out when the time comes. Tyler, can you hear me? I'm gonna see this mission through. I meant what I said. Everybody comes home. 
+
+[Klingon ship]
+
+KOL: Sharper! Anticipate her moves!   
+(Burnham completes her primary mission.)   
+COMPUTER: Uplink to Discovery established. 
+
+[Bridge]
+
+SARU: Captain, the second sensor is online. Standing by to receive data as soon as the Klingon vessel cloaks.   
+LORCA: Then let's make it happen. Black alert.   
+COMPUTER: Black alert.   
+LORCA: Mister Rhys, be ready to fire our torpedoes when we come out of the jump. Remember our people are on board, so just a scratch.   
+RHYS: Aye, Captain.   
+LORCA: Let's give 'em a little taste of what the Discovery is capable of. 
+
+[Klingon ship]
+
+KOL: What is it doing?   
+(Burnham listens in via the universal translator app on her communicator.)   
+KLINGON: My Lord, the Federation ship has vanished without a trace.   
+KOL: So, this is Discovery's fabled power. Cloak us at once. 
+
+[Bridge]
+
+SARU: Captain, The Ship of the Dead is cloaking.   
+LORCA: Right on schedule.   
+SARU: The sensors are transmitting the cloaking frequency.   
+LORCA: Commence jump sequence.   
+AIRIAM: Engaging spore drive jump in five, four, three 
+
+[Engineering]
+
+TILLY: Two, one.   
+STAMETS: I love you. 
+
+[Bridge]
+
+LORCA: Go.   
+(Discovery flickers in and out. Tilly and another Engineer are kept busy replenishing the spore capsules.)   
+LORCA: Our sensors have begun transmitting the data. Keep it up, Mister Stamets. Just finish the jumps and we'll have what we need. 
+
+[Engineering]
+
+CULBER: Heart rate is at 182. Tilly, how many jumps do we have left?   
+TILLY: Ninety six more. 
+
+[Burial chamber]
+
+CORNWELL: Tyler, you need to focus on my voice. You're safe. Burnham will return shortly. What you are experiencing are the effects of past trauma. I know it doesn't feel like that, believe me. What you're seeing is just a memory. You are right here with me.   
+TYLER: Make them stop. Make them st...   
+CORNWELL: They didn't break you then, so they are not gonna break you now. Normal breath in, slow breath out. Good. Keep that up. 
+
+[Enineering]
+
+TILLY: Jump 59. Jump 60. Jump 61. Jump 62.   
+CULBER: How are we doing, Lieutenant?   
+STAMETS: There's a clearing in the forest. That's how they go.   
+TILLY: Jump 63.   
+CULBER: Engineering to Bridge. 
+
+[Bridge]
+
+CULBER [OC]: We have to abort.   
+LORCA: We have seventy jumps left, Doctor.   
+CULBER [OC]: His sinoatrial node is firing at over two hundred per minute. 
+
+[Engineering]
+
+CULBER: Call it off now.   
+LORCA [OC]: You do what you have to to keep him alive till he finishes the jumps. Trillions of lives are at stake.   
+TILLY: Jump 64.   
+LORCA [OC]: That's an order, Doctor.   
+CULBER: Administering digoxin. Two point four cc's. I love you, too.   
+TILLY: Jump 65. 
+
+[Klingon ship]
+
+KLINGON: My Lord, sentry reports signs of possible sabotage. Sector 37, near the burial chamber.   
+KOL: L'Rell. She must have escaped. Find her, and cut off her legs. She will be dealt with after we leave this place. Engage the warp drive.   
+KLINGON: My Lord?   
+KOL: This display from the Starfleet ship is part of a ruse, and I do not intend to let myself be fooled. Engage the warp drive.   
+(Burnham checks, they're only on jump 71. So she starts shooting.)   
+KLINGON 2: Intruder alert!   
+BURNHAM: General Kol, I wish to talk.   
+KOL: Who is that? You speak Klingon? Show yourself.   
+BURNHAM: This device is a universal translator. An example of human ingenuity.   
+KOL: All I see is another attempt by humanity to rob us of our identity.   
+BURNHAM: It's proof of our desire to communicate.   
+KOL: Is that why you're here on my ship, Starfleet intruder?   
+BURNHAM: You are Kol. You took T'Kuvma's place.   
+KOL: And have you come here to take the place of the human that this belongs to?   
+(Georgious's insignia) Because I see that it holds value to you. Well, it makes for a useful object to pick my teeth.   
+BURNHAM: I thought Klingons were honourable.   
+KOL: As if you understand honour.   
+BURNHAM: Where is the honour of taking a ship that doesn't belong to you? You had no hand in the battle that caused this war. You were not here when T'Kuvma fell.   
+KOL: And how would you know such things?   
+BURNHAM: Because I was here. I'm the one who killed T'Kuvma. 
+
+[Burial chamber]
+
+CORNWELL: Lieutenant, we're about to have company. Tyler, there's only so much I can do when I can't move my legs.   
+(Cornwell manages to shoot one of the Klingons, the other ducks back outside.)   
+CORNWELL: For the love of God, get up. Burnham is in danger and she needs your help.   
+(Tyler's flashbacks move on to him kissing Burnham, and he takes action, vaporising the other Klingon and closing the doors again. 
+
+[Klingon ship]
+
+KOL: You killed T'Kuvma? Hmm. Then this belonged to your Captain.   
+BURNHAM: Her name was Captain Philippa Georgiou. I regret that my actions that day have locked our people into this war.   
+KOL: While I thank you for it. My rise to power would not be possible if not for the assassination of T'Kuvma. Lock her up. Once I return with the slayer of their messiah, what remains of T'Kuvma's torch-bearing fools will have no choice but to fall in line.   
+BURNHAM: If you are to capture me, then prove your worth. T'Kuvma defeated the woman whom that belonged to. Do me the same honour.   
+(He throws her a curved blade, and fastens Georgiou's insignia to his chestplate.)   
+KOL: I accept your challenge, human.   
+(They fight, Burnham gets kicked away. The Klingons laugh.)   
+KLINGON: Kill her! Now!   
+(Burnham gets up and tries again.) 
+
+[Engineering]
+
+TILLY: Three, two, one. 
+
+[Bridge]
+
+AIRIAM: Jump protocol complete.   
+LORCA: Number One, how's that algorithm coming?   
+SARY: Computer estimates five minutes until data analysis is complete and we're able to break through the cloak.   
+DETMER: We're sitting ducks.   
+OWOSEKUN: Captain, I suggest jumping to safety until the cloak has been penetrated.   
+LORCA: Why aren't they firing? They're thinking of leaving. I would. We're not going anywhere until we have Burnham and Tyler back. 
+
+[Klingon ship]
+
+(Kol finally disarms Burnham and grabs her by the throat.)   
+KLINGONS: Kol! Kol! Kol!   
+KOL: Your death will secure my place as absolute ruler of the Klingon Empire.   
+(He releases her and she dodges his knife. She gets cut and knocked down, then slices at Kol's leg.) 
+
+[Bridge]
+
+SARU: Captain, I've got it. The algorithm is ready. We have their cloaking signature. Transferring to Transporter room control.   
+LORCA: Bring them home, Number One. 
+
+[Transporter room]
+
+TRANSPORTER CHIEF: Locking on. Discovery to Tyler. 
+
+[Burial room]
+
+TRANSPORTER CHIEF [OC]: Ready to transport.   
+TYLER: Tyler to Discovery. I have two to transport. Burnham's on the Bridge.   
+TRANSPORTER CHIEF [OC]: Confirmed. We'll pull you in first.   
+TYLER: Gonna get you out of here.   
+(L'Rell has recovered. She throws her arms around Tyler as he is beamed away, and she goes too.) 
+
+[Klingon ship]
+
+KOL: Is victory to be mine so easily?   
+TRANSPORTER CHIEF [OC]: Specialist Burnham, prepare to transport.   
+BURNHAM: No, it's not. And neither is this.   
+(She grabs the insignia from Kol, jumps over the railing and is beamed away in mid-air.) 
+
+[Bridge]
+
+SARU: Sir, Lieutenant Tyler and Specialist Burnham are safely back aboard, along with Admiral Cornwell, who's been injured, and a Klingon prisoner who's been taken into custody.   
+LORCA: Extra prize. All right. Load all available photon torpedoes. Target the enemy ship.   
+SARU: Target acquired, sir. We can see them.   
+LORCA: And fire.   
+(Kol and his ship go KaBOOM! Tyler and Burnham enter the Bridge to see the fireworks.) 
+
+[Ready room]
+
+TERREL [on monitor] Admiral Cornwell's emergency medical shuttle has successfully arrived at Starbase 88. She is currently undergoing surgery. I'm told she should make a total recovery. LORCA: That's excellent news. Make sure to send her my best. The planet of Pahvo is safe, the cloak-breaking algorithm is being refined for fleet-wide use as we speak, and will be transmitted on a secure channel to you in just under eleven hours. TERREL [on monitor] The sooner, the better. There are reports of cloaked Klingon vessels advancing on our borders, and on you. The war is not won yet, but you have increased the likelihood of a victory for Starfleet, despite your unorthodox methods.   
+LORCA: I'm gonna take that as a compliment. TERREL [on monitor] Now it is time for Discovery to return to safety. Report to Starbase 46. You will find that your accomplishments have not gone unnoticed. Starfleet Command would like to award you with the Legion of Honour. I look forward to congratulating you in person.   
+COMPUTER: Transmission ended. 
+
+[Outside Tyler's quarters]
+
+TANNOY: Cadet Decker, please report to the Ready room. Lieutenant Calhoun, please report to the Bridge.   
+(Door bell, door opens.)   
+TYLER: Looks like you cleaned up nicely.   
+BURNHAM: Doctor Culber.   
+TYLER: You want to come in? 
+
+[Tyler's quarters] 
+
+BURNHAM: It's gone, the Ship of the Dead. The planet of Pahvo is safe. We did that.   
+TYLER: No. You did that. So, thank you for not giving up on me back there.   
+BURNHAM: I need to know something. You put on a facade. Like everything that's happened to you just washes off. I actually envied that about you. But when you saw that Klingon... Who is she to you?   
+TYLER: I think you already know.   
+BURNHAM: You were her prisoner.   
+TYLER: Yeah. Her name's L'Rell. She's the reason I've had nightmares every night since Captain Lorca and I fled her ship. She's also the only reason I'm still alive. Two hundred and twenty seven days, but it only took one of them to realise I wasn't gonna make it out alive, not unless I made a choice.   
+BURNHAM: What did you do?   
+TYLER: I survived. That... that Klingon was more than just my captor. She was my torturer. One who took a particular interest in me. And I saw a way out. A way to live past day one, day ten, day twenty, day ninety seven. I encouraged it. Her sick affections, her obsession with me, necause if I hadn't, I'd be dead, like all the others. And I got out. I get to keep living my life. But the thing is, if none of that had happened, I wouldn't be here on this ship with you. And that almost makes it worth it. Is that weird?   
+BURNHAM: No. I'm glad you're here, too. You get to live your life the way you deserve to. Not at war but at peace.   
+TYLER: I found peace. Right here. 
+
+[Cargo bay]
+
+LORCA: They wanted to give me a medal for leading the mission, saving Pahvo, if you can believe the irony. I told them to give it to you.   
+STAMETS: That's er, not necessary, sir.   
+LORCA: You made the jumps. You risked everything. None of it would've been possible without you. You did it so well, the Klingons are on their way, hell-bent on revenge. I wish we could stay and fight, but Starfleet wants us back at Starbase 46.   
+STAMETS: Do you need me to jump?   
+LORCA: No, I'd never ask that of you. You've done enough. We'll warp to Starbase 46. We'll be fine.   
+STAMETS: But the Klingons. I'll do one more jump to get the crew back to safety. They've risked enough already.   
+LORCA: If you're sure. Thank you. We're gonna win this war on account of you, Mister Stamets. After this, it's a whole new chapter for Discovery. You've opened a door to a whole new era of exploration. The data provided by the micro-jumps will push us closer than we've ever been before to understanding the mysteries of the universe.   
+STAMETS: No, Captain, I mean only one more jump. After we get back, I'm done. Travelling the mycelial network is like commingling with the most abstruse blips of our celestial existence. I've seen these stars through a lens no one else has access to, and that has to be enough for me, because I need Starfleet's best doctors to examine my condition and figure out what's been happening to me.   
+LORCA: One last jump, then. You've served the Federation honourably, Lieutenant.   
+STAMETS: Well, I'll always have you to thank for the view.   
+LORCA: You ready? 
+
+[Brig]
+
+(Tyler wakes from a nightmare memory of having sex with L'Rell. He leaves Burnham sleeping on the couch.)   
+TYLER: What did you do to me?   
+L'RELL: Do not worry. I will never let them hurt you.   
+COMPUTER: Command stations. Command stations.   
+L'RELL: Soon. 
+
+[Bridge]
+
+(Culber and Stamets kiss in Engineering.)   
+LORCA: Mister Stamets? 
+
+[Engineering]
+
+LORCA [OC]: Shall we dock this weary vessel?   
+STAMETS: Yes, Captain. There is a moon near Starbase 46, and I understand they have the most esteemed Kasseelian opera house, where they are currently performing La Boheme. I could be your date.   
+CULBER: Are you saying you'll actually sit through that with me?   
+STAMETS: Just this jump, and then I'm going to have a lot of free time on my hands. 
+
+[Bridge]
+
+(Lorca inputs a spore drive navigation programme.)   
+LORCA: Let's go home.   
+(Stamets screams when he is connected to the programme. The lights go out. Discovery splits in two as she prepares to jump. Ice forms on the inside of the spore chamber.)   
+LORCA: Talk to me, Cadet. 
+
+[Engineering]
+
+TILLY: The computer is reading it as an incomplete navigation sequence.   
+(Stamets staggers out of the chamber and collapses.)   
+CULBER: He's crashing. I'm detecting white matter hyperintensity.   
+TILLY: What's wrong with him? What's happening to his eyes?   
+STAMETS: So many. I can see them all. Infinite permutations. It's magnificent.   
+CULBER: Paul! Paul! 
+
+[Bridge]
+
+LORCA: Ship-wide status.   
+OWOSEKUN: Some structural damage, but all systems are holding.   
+LORCA: Mister Saru, what am I looking at?   
+SARU: I... I'm not quite sure. But I'm unable to confirm our position using standard procedures. Sensors are going haywire.   
+LORCA: Where is our Starbase?   
+SARU: Not where it should be.   
+LORCA: Is that Klingon wreckage surrounding us?   
+SARU: Captain, I'm afraid I don't know where we are.   
+---  
+  
+Star Trek ® is copyright of  CBS Studios Inc . Copyright (C) 1966, Present. The Star Trek web pages on this site are for educational and entertainment purposes only. All other copyrights property of their respective holders.

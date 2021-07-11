@@ -1,0 +1,501 @@
+Despite Yourself   
+Stardate: Unknown  
+Original Airdate: 7 Jan 2018  
+
+
+[Bridge]
+
+LORCA: Yellow alert.   
+COMPUTER: Yellow alert.   
+LORCA: This isn't Starbase 46. Where the hell are we?   
+SARU: Our... our sensors are erh, recalibrating, sir.   
+LORCA: What happened here? I don't remember reports of battles anywhere near Organia.   
+BURNHAM: Blast scoring and damage patterns are consistent with Federation weapons, but the hull signatures are a little off.   
+LORCA: Off?   
+BURNHAM: Wreckage is Klingon, but hull density analysis is registering outside acceptable margins.   
+LORCA: Is anything here a threat?   
+RHYS: No life signs or active power signatures.   
+LORCA: Small favours.   
+SARU: Captain, our navigational array is malfunctioning. According to these readings, we've jumped to our intended coordinates, and our position, relative to the galactic centre, is confirmed. But almost nothing else is where it's supposed to be.   
+(Saru's threat ganglia leap into action.)   
+LORCA: Nice of you to join us, Mister Tyler. I know it was only a yellow alert...   
+TYLER: I'm sorry, sir.   
+OWOSEKUN: Captain? A vessel is approaching at sub-light speed.   
+TYLER: Seems like a Vulcan cruiser.   
+LORCA: On screen.   
+SARU: Well, the Vulcans must be the ones who destroyed those Klingons.   
+BRYCE: Shall we hail them, sir?   
+LORCA: Yes, open a channel.   
+BRYCE: Unidentified Vulcan cruiser, this is the USS Discovery. Please respond.   
+TYLER: Captain. The Vulcans are powering up weapons.   
+BURNHAM: They must have registered an active Klingon ship somewhere nearby.   
+LORCA: Red alert. Shields up.   
+(The Vulcans fire at them.)   
+LORCA: Detmer, evasive pattern beta four pi.   
+BURNHAM: They're doubling back.   
+TYLER: I'm unable to lock on, sir.   
+LORCA: Do it manually, shoot in their general direction.   
+(The Vulcan ship gets damaged.)   
+LORCA: Where did that assist come from?   
+BRYCE: Incoming transmission from the Cooper, sir. Audio only.   
+LORCA: Cooper? Isn't she supposed to be undergoing a refit? Send it through.   
+SPOENEMAN [OC]: Spooked by rebels, Discovery? You're losing your edge. Don't worry, we'll take care of them. Cooper out.   
+BURNHAM: Vulcan rebels? Firing on Starfleet?   
+LORCA: Engineering, what's the status of the spore drive? 
+
+[Engineering]
+
+TILLY: Lieutenant Stamets is non-responsive.   
+CULBER: He's stabilised, but there's no way he can get back into that reaction cube. 
+
+[Bridge]
+
+TILLY [OC]: Spore drive is offline, Captain.   
+SARU: I may have something. The quantum signature of the Cooper, as well as that of the Vulcan cruiser, are inconsistent with ours.   
+BURNHAM: That's not possible. All matter native to our universe resonates with the same quantum signature. Nothing can change it.   
+LORCA: That's true. Unless... this is not our universe. 
+
+[Ready room] 
+
+LORCA: Obviously, the idea of parallel worlds has been around since the 20th century.   
+BURNHAM: And you and Stamets believed the spore drive could jump between them?   
+LORCA: Well, it was a theory I was working on. Stamets was keen to chase it with me after the war.   
+BURNHAM: But, these areas don't correlate to anything in the known universe.   
+LORCA: We suspected the mycelial network extended way beyond anything we'd imagined.   
+BURNHAM: A vast system underpinning all quantum realities.   
+LORCA: But the exact coordinates of some of the more esoteric destinations eluded us. Apparently, the 133 jumps we made filled in the gaps.   
+SARU: An extraordinarily fortunate coincidence.   
+LORCA: I'd say unfortunate, wouldn't you, Number One?   
+BURNHAM: It's worse than that. The Klingon cloak-breaking algorithm we'd been refining. There's no way we can send that back to Starfleet now.   
+LORCA: That's why we have to make it back. Otherwise, the ships are just sitting ducks. The war's as good as lost.   
+BURNHAM: Well, Stamets brought us here accidentally, so we should examine the spore drive's navigational logs more closely. There could be an indication   
+LORCA: I just pushed Stamets too hard, and the number of jumps scrambled his ability to hold the coordinates for Starbase 46 in his head. Now, what we need to do is understand where we are and how to survive. Then we'll find a way home. Recalibrate the sensors, and you start looking at the records. See if there's something we can learn.   
+BURNHAM: Yes, Captain. 
+
+[Sickbay]
+
+(Stamets' eyes are completely milky.)   
+STAMETS: It's a palace. Stay close.   
+TILLY: Lieutenant Stamets, please don't hate me, but what is the spore germination rate again? And, erh, I know you always have to remind me, but, er, the ideal moisture level in the cultivation bay, is, is it 85% or 87% relative humidity? I was just, I was hoping I could, um, maybe jog his memory with familiar things. Mainly, how annoying he finds me.   
+CULBER: He's in a state of neurological disregulation unlike any I've ever seen.   
+(Stamets gets off the biobed.)   
+STAMETS: It's a palace.   
+CULBER: Paul.   
+STAMETS: To the palace.   
+CULBER: Paul, no.   
+(Stamets' push throws Culber across the room.)   
+TILLY: Oh, my God.   
+CULBER: I'm okay.   
+(Stamets gets back on the bed. Culber initiates a forcefield around it.)   
+TILLY: I'm so sorry. I should have told you as soon as I found out about the side-effects from the jumps. I shouldn't have kept it a secret.   
+CULBER: Paul is your superior officer, he gave you an order. You didn't do this.   
+(Lorca enters.)   
+CULBER: Speak of the devil.   
+LORCA: Cadet. Excuse us.   
+TILLY: Yes, sir.   
+(Tilly leaves.)   
+LORCA: How is he?   
+CULBER: Alternately catatonic, and then prone to bursts of nonsensical speech. He's contained for his own safety, and his adrenals are spiking uncontrollably. I don't know if he'll ever be the same, let alone if he'll ever jump again.   
+LORCA: Yeah, I know you blame me for this, and you're right. I'm his Captain. I'm responsible for his well-being.   
+CULBER: Yes. You were. Fortunately, his well-being falls to me now.   
+LORCA: I'm afraid not. I've decided to hand his case over to another doctor.   
+CULBER: No.   
+LORCA: Medicine requires professional objectivity, Doctor Culber, and your bias, your personal bias compromises that, and compromises his recovery.   
+CULBER: Oh, suddenly, you care about protocol. You wanted me to fake Stamet's medical records as a smoke screen. I bought you time so that you could push him into all those jumps and break the Klingon cloak.   
+LORCA: So he did. So we did.   
+CULBER: I'm the most qualified to care for him. Do you even want him to get better? Or did you want all of this to happen?   
+LORCA: You're clearly much too emotional to be able to handle this. Maybe I let my emotions carry me away. My need to win the war. And look where it got us. You have your orders. 
+
+[Worker bee / Bridge]
+
+(A small round pod with two remote arms has been launched. Tyler is piloting it.)   
+BURNHAM [OC]: I'm detecting what looks to be a Klingon central data core in that wreckage. It's inside a larger debris array about 200 metres ahead of you.   
+TYLER: Glad the sensors are working again. Vulcan high-level math, Specialist?   
+BURNHAM: And some good old-fashioned human know-how, Lieutenant.   
+TYLER: Copy that. 
+
+[Bridge]
+
+BURNHAM: Readings are good, Captain. I think the data core is intact. If we can bring it on board, we can get a crash course on what those Klingons knew about this universe.   
+LORCA: Proceed with the extraction.   
+TYLER [OC]: Closing in on the cockpit. 
+
+[Worker bee]
+
+BURNHAM [OC]: The core is likely part of the main computer located at the rear of the ship. It should be easy enough to extract.   
+(Tyler's PTSD is back.)   
+TYLER: I'm seeing bodies in there. 
+
+[Bridge]
+
+LORCA: Why can't he maintain a course? Is the flight control malfunctioning? Burnham.   
+BURNHAM: There are no life signs in that wreckage, Lieutenant. You're all clear. 
+
+[Worker bee]
+
+BURNHAM [OC]: Ready to proceed? Tyler.   
+(Tyler activates the remote arms.) 
+
+[Bridge]
+
+LORCA: What the hell is he doing? Lieutenant Tyler, get in there and extract that data core. 
+
+[Worker bee]
+
+TYLER: Aye, sir. Proceeding. Approaching the Klingon raider. The bodies are a Vulcan and Andorian. 
+
+[Bridge / Worker bee]
+
+SARU: A Vulcan and an Andorian? Commanding a Klingon ship?   
+TYLER: I've located the data core. Looks intact, but I'll have to clear some of the hull around it with the laser cannon to extract cleanly.   
+BURNHAM: Proceed with extreme caution, Lieutenant. Even the slightest nick could corrupt the data or destroy the core completely.   
+(Tyler cuts open a hatch then slices off the core's links.)   
+COMPUTER: Debris surface analysis is non-conclusive.   
+TYLER: Got it.   
+LORCA: Get it to engineering as fast as possible, Lieutenant. (to Burnham) You can relax, too. He's safe now.   
+BURNHAM: Sir?   
+LORCA: I need to know that I can rely on my crew to act professionally at all times. Particularly now we're in dangerous waters. So, can I count on you, Burnham?   
+BURNHAM: Yes, sir.   
+LORCA: Good. 
+
+[Brig]
+
+L'RELL: What are you doing, standing there?   
+TYLER: You can't hurt me anymore.   
+L'RELL: Now why would I want to hurt you?   
+TYLER: What did you do to me, on the prison ship? Tell me.   
+L'RELL: You know what we did. We did it together. So many things. You have such appetites.   
+TYLER: You forced me.   
+L'RELL: Does thinking that make you feel better?   
+TYLER: I'm having flashes of things... things I don't remember. Procedures. Surgeries.   
+L'RELL: Sweet Tyler. Open this cell, and I'll tell you everything you want to know.   
+(Tyler lowers the forcefield.)   
+L'RELL: Very good. So much more familiar.   
+(She leans in for a kiss, he grabs her round the throat.)   
+TYLER: Tell me.   
+(in Klingonaase.)   
+L'RELL: Whom do we seek?   
+TYLER: Kahless.   
+L'RELL: How do we find him?   
+TYLER: Together.   
+L'RELL: Kahless, give us light to see.   
+TYLER: Forever.   
+BOTH: Will he hide from us always?   
+BOTH: Never.   
+L'RELL: What is your name?   
+(Back to English, and Tyler is suddenly over by the door.)   
+TYLER: What did... what did you do to me? I'm... I'm not myself.   
+L'RELL: You have another name. Say it!   
+TYLER: You know my what my name is! (points phaser at her) If you don't tell me what you did to my mind, to my soul, I'm gonna make you scream it as you die.   
+L'RELL: The prayer should make you remember. Something is wrong.   
+TYLER: You're damn right something's wrong. Now, tell me! What am I doing? What am I doing?   
+L'RELL: No.   
+(He pushes her back and reactivates the forcefield.)   
+TYLER: What am I doing?   
+L'RELL: Wait, wait. (in Klingonaase) You will come back to me. 
+
+[Mess hall]
+
+BURNHAM: Isik for your thoughts.   
+TYLER: What's an isik?   
+BURNHAM: It's an old Vulcan saying. No one actually knows where it comes from.   
+TYLER: Must make it hard to cash in.   
+BURNHAM: What happened out there, in the worker bee?   
+TYLER: What do you mean? (he gets a Look) It happened again. The flashes of memory. Worse this time. Things I hadn't recalled about my torture. Thanks for covering.   
+BURNHAM: You have to tell the Captain.   
+TYLER: I know, but I can't.   
+BURNHAM: Why?   
+TYLER: PTSD regs require full-duty quarantine till you can get treatment. We're in another universe. I mean, how close do you think the nearest Starfleet medical centre is?   
+BURNHAM: Who knows? It might be around the corner.   
+TYLER: Maybe. But until that turns out to be true, I need you to trust me.   
+BURNHAM: What you went through on the Klingon Ship of the Dead   
+TYLER: Was a one-off. Seeing those Klingons took me by surprise, that's all. I can manage this, all right? You just saw me manage this. You helped me manage... Just let me try and handle things, at least for a little while. At least till we get back home.   
+BURNHAM: And what if you can't?   
+TYLER: Then I'll tell you, I promise.   
+BURNHAM: I'm taking you at your word, Starfleet.   
+TANNOY: Specialist Burnham, please report to Engineering.   
+BURNHAM: Duty calls.   
+(She leaves. Tyler discovers he has broken his glass and cut his hands.) 
+
+[Engineering]
+
+TILLY: The data core from the Klingon vessel. I got it open.   
+BURNHAM: Well done, Tilly. Strange. The core itself is Klingon, but these data chips are of Vulcan design. They should be compatible with our universal interface. But this fused data technology, and their sharing of ships... Is it possible that in this universe, the Vulcans, Andorians and Klingons have some sort of alliance?   
+TILLY: Allied against... against us?   
+BURNHAM: I'm gonna get into the interface and try to figure this out.   
+(They look at the spore drive chamber.)   
+TILLY: I know. Me, too. It's weird being here without him. But he's gonna get better. He has to, right?   
+BURNHAM: Of course he does. All right, let the xenoanthropologist get to work.   
+(Later. Logo of the Earth with a dagger through it. Of all the gazillions of potential quantum multiverses, they are in good old 'Spock-In-A-Goatee' land.)   
+BURNHAM: I'm downloading the Klingon raider's logs Images, battle plans, intelligence that we found from the core. And so far, we can conclude that we are indeed in a parallel universe. But one not governed by the Federation, but by a fascistic, human-only organisation known as the Terran Empire. Most places and ships that are found in our universe, like the Cooper, exist here. The same goes for people.   
+TYLER: You mean, we could literally meet another version of ourselves?   
+BURNHAM: Theoretically, yes.   
+TILLY: Wow.   
+BURNHAM: The Terrans appear to be the antithesis of us, in every way. They're an oppressive, racist, xenophobic culture that dominates all known space, and they're ruled by a faceless emperor.   
+TYLER: And those ships we found?   
+BURNHAM: They're part of a rebellion that is made up, essentially, of all non-human species. They're fighting for freedom. The rebellion fears and mistrusts humans. The Terran culture appears to be predicated upon an unconditional hatred and rejection of anything and everything other.   
+LORCA: That means us. There's no way we're asking these neighbours for a cup of sugar.   
+DETMER [OC]: Captain to the Bridge. Incoming vessel. It's the Cooper.   
+LORCA: We're on our way. 
+
+[Bridge]
+
+BRYCE: We're being hailed, sir. They're asking to speak with the Captain.   
+BURNHAM: They think we're their Discovery.   
+LORCA: All right, what intel do we have?   
+SARU: Scanning records from the core download. Wait. The rebel logs show their ships being attacked by a vessel with a warp signature matching our Discovery, but with a quantum signature matching this universe.   
+BRYCE: They're hailing us again, sir.   
+SARU: That signature seems to have vanished at the same coordinates where we popped in.   
+LORCA: So...   
+SARU: It is possible we switched places with their Discovery.   
+LORCA: I'm gonna run with Mister Saru's theory in the hope that we don't bump into ourselves and blow our cover. Burnham.   
+BURNHAM: Modifying our ship's signature to match that of mirror Discovery.   
+BRYCE: Captain.   
+LORCA: Hold on, Lieutenant!   
+BRYCE: They're saying if we don't respond that we should prepare to be fired on.   
+LORCA: Open a channel. Audio only.   
+BURNHAM: Belay that. I'm sorry, but you can't take it, sir. I'm examining the crew manifest of mirror Discovery. You're not its Captain.   
+LORCA: Who is?   
+TILLY: That er, that's me. That's me.   
+LORCA: That's absurd.   
+TYLER: They're arming weapons.   
+LORCA: Cadet, looks like you're taking this one.   
+TILLY: Er, what... what do I say?   
+LORCA: You just get rid of them as fast as possible, and you talk as little as possible.   
+TILLY: That's... that might be a little hard for... Have you noticed that I talk a lot?   
+LORCA: Defy your every instinct.   
+TYLER: Their phasers are locked on. Should I raise shields, Captain?   
+LORCA: No. Mister Bryce, open a channel.   
+BRYCE: Aye, sir.   
+TILLY: Hello, this is Captain Tilly. What the he-heck hell? What the hell? Hold your horses!   
+SPOENEMAN [OC]: This is Captain Spoeneman. Why the delay in responding, Discovery?   
+TILLY: I was indisposed.   
+SPOENEMAN [OC]: Everything okay over there, Discovery? You made quick work of those rebels, and we got the stragglers. Any reason you're still hanging around? Expecting more kills? Trying to keep them all to yourself?   
+TILLY: We're experiencing mechanical issues.   
+SPOENEMAN [OC]: Need a hand? We're not far. And why are you not on screen?   
+TILLY: Mechanical issues? Here's my Chief Engineer.   
+(Mute.)   
+BURNHAM: I don't know who you are over here just yet, so conceal your voice just in case.   
+(Audio on. Lorca adopts the traditional Scottish accent for Chief Engineers.)   
+LORCA: How are you doing, Captain? Everything's squared away here. We've got, er we've got a wee bit of trouble with our visual emitters and the starboard nacelle, but a bit tweaking, we'll be good to go, all right?   
+SPOENEMAN [OC]: Very well, Discovery. More rebel nests for us. Happy hunting. Long live the Empire!   
+TILLY: Long live the Empire!   
+(Communication ends.)   
+LORCA: Good.   
+(Lorca gives Tilly a Look to get her out of his chair.)   
+TILLY: Sor... sorry.   
+LORCA: Next time, we might not get away with audio only. If we want to live to get back home, we have to make it so we look and act like we belong here. Mister Saru, while we get up to speed with this universe, see to it that the ship, the crew and its Captain are prepared.   
+SARU: Yes, sir.   
+LORCA: I mean fully prepared.   
+(As the crew swap their Starfleet deltas for Imperial logos.)   
+LORCA: To successfully crash a party, you have to look like you belong. You must project confidence.   
+(Tilly is dressing in her new uniform.)   
+BURNHAM: You gained the rank of Captain by stabbing your previous superior in bed. He was recovering from Crestian flu.   
+TILLY: That's not... that's not possible.   
+BURNHAM: It's more than possible. Your nicknames include The Slayer of Sorna Prime.   
+(Monitor displays are being updated.)   
+LORCA: Every detail of this so-called Terran Empire must be replicated exactly.   
+BURNHAM: The Witch of Wurna Minor.   
+(Worker bees are repainting the hull to read ISS Discovery.)   
+LORCA: And wherever we may fall short, we have to get creative.   
+BURNHAM: And finally   
+SARU: Captain Killy? Well, that's not very clever.   
+LORCA: Our very survival relies on our ability to maintain this cover, no matter what. We are now the ISS Discovery. 
+
+[Ready room]
+
+LORCA: Are we civilians? Do we get uniforms? What?   
+BURNHAM: We won't be needing them, sir. I finally found the files on our Terran counterparts. We're not here.   
+LORCA: Where are we?   
+BURNHAM: I'm presumed dead, and you're a fugitive wanted for my murder.   
+LORCA: What happened?   
+BURNHAM: Well, the intelligence is fragmented. Looks like most of it's been stolen from classified Terran files. But it appears that you and I both enjoyed immense prestige here. I was the Captain of the Shenzhou, and you had the Buran here, too, sir.   
+LORCA: And my crew... they alive?   
+BURNHAM: No. You attempted a coup against the Emperor. I was sent to stop you. In the process, my shuttle was destroyed by one of your followers, and I was killed, and the Emperor laid waste to your ship in retaliation. It's believed you escaped.   
+LORCA: Well, there's me hoping I'd find a better version of myself over here. Look out there. Come on. Amazing, isn't it? A different universe, but somehow the same people had a way to find each other. The strongest argument I've ever seen for the existence of destiny.   
+BURNHAM: I'm not sure if I believe in destiny.   
+LORCA: Well, is that so? Sitting in that cell all alone, facing a life sentence of solitude, future full of misery. A little part of you had to know that wasn't the end of your story. You were destined for something more.   
+BURNHAM: Destiny didn't get me out of prison, Captain. You did that.   
+LORCA: Well, let's agree to disagree for now. So, who is this Emperor?   
+BURNHAM: There's no information in the rebel files beyond the fact that the Emperor is savage.   
+LORCA: Maybe it's not a bad thing that you and I are ghosts. I found something curious in the data here. A potential way home. Now, I didn't know how to exploit it till right now, but I think you might end up saving us all.   
+(Later.)   
+SARU: It's a suicide mission.   
+BURNHAM: No, listen, Commander.   
+LORCA: Data from rebel intelligence suggests that we're not the first ship from our universe to find ourselves here. It cites another Starfleet vessel. USS Defiant.   
+SARU: How is that possible? At last review, the Defiant was patrolling Sector six in our universe.   
+BURNHAM: There may be some kind of temporal anomaly at play. It's unclear, but data suggests that in the future, the Defiant will encounter a phenomenon that'll bring it into this alternative universe's past.   
+LORCA: Regardless, the Defiant is a Constitution class vessel. It didn't get here by spore drive. If we find out how it did make it over, could be our way home.   
+SARU: But boarding the ISS Shenzhou? Posing as your Terran selves? Well, that plan is an invitation for calamity. Captain, I beg you to reconsider.   
+LORCA: Intel on the Defiant is classified. It's only available on a Terran ship to those with high-level clearance, like a captain.   
+SARU: But you are an enemy of the empire and no longer a captain, Captain.   
+BURNHAM: No, but I am.   
+SARU: But I thought the other Burnham was dead.   
+BURNHAM: Presumed dead. My body was never found.   
+LORCA: I'm responsible for her death, and I'm still at large, so Captain Burnham will be returning to the Shenzhou with me as bounty.   
+BURNHAM: And I'll explain that my death was a cover that I used to hunt him to the end of the quadrant.   
+SARU: Delightful.   
+LORCA: We beam over, Burnham gets the info on Defiant, we beam back. Simple. Every Captain in the Empire has a personal guard. You're gonna be Burnham's.   
+TYLER: Am I?   
+LORCA: Have long-range sensors scan for the ISS Shenzhou. When you find her, plot an intercept course. Let's get us home.   
+SARU: Yes, sir. 
+
+[Sickbay]
+
+CULBER: What exactly are you worried about, Lieutenant?   
+TYLER: I just want you to make sure the Klingons didn't do something to me. Some kind of procedure I don't know about.   
+CULBER: Well, of course, you know anything is possible. But you were exposed to a full set of physical scans when you came on board. And random memory sampling, the Manchurian test, is highly effective at detecting what used to be called brainwashing, i.e. the installation of commands or personality engrams underneath a functioning consciousness. What exactly are you imagining they could have done to you?   
+TYLER: I'm not imagining anything.   
+CULBER: Forgive me, Lieutenant. I meant the word practically, not pejoratively. As in when one uses the imagination to picture what is not yet known, or seen. Are you suffering from mood swings? Fugue states? Lost time? If any of that is the case, I'll have to ground you.   
+TYLER: I just want to make sure I'm shipshape before this mission. The people on this ship, they saved my life. I won't let 'em down.   
+CULBER: Well, let me run a deeper set of scans. What you probably need most right now is rest and some time off of this ship.   
+TYLER: Not much chance of that, Doc.   
+STAMETS: Stay out of the palace!   
+CULBER: I'll just be a minute. Paul, I'm not going anywhere. I'm gonna stay right by your side. It'll be okay. (kiss)   
+(Stamets' eyes are normal)   
+STAMETS: Be careful. The enemy is here.   
+(His eyes go milky again.) 
+
+[Ready room]
+
+TILLY: I'd say, er, I'm 60% excited, 40% terrified. Actually, it's 60% terrified, 40% excited. Maybe it's 70%   
+BURNHAM: Tilly.   
+TILLY: Sorry. Sorry.   
+BURNHAM: And stop apologising. Terrans don't apologise.   
+TILLY: Well, my mother would definitely approve. Computer, cancel mirror.   
+BURNHAM: You are a captain now.   
+TILLY: No, I'm not. She is. I'm nothing like her, Michael. She's terrifying. She's... she's like a twisted version of everything I've ever aspired to be. I'm gonna have nightmares about myself now.   
+BURNHAM: You don't actually have to be her.   
+TILLY: But how do I project that strength?   
+BURNHAM: I've been trying to understand them better. And Terran strength is born out of pure necessity, because they live in constant fear, always looking for the next knife aimed at their back. Their strength is painted rust. It's a facade. But you have the strength of an entire crew that believes in you. Fortify yourself with our faith in you. That's what a real Captain does.   
+(Lorca enters, in civilian clothes.)   
+LORCA: Impressive.   
+TILLY: Well, let's not keep these assholes waiting. Too much?   
+LORCA: No. Not here. Here, it's just right. 
+
+[Bridge]
+
+TILLY: Mister Bryce.   
+BRYCE: Yes, Captain.   
+TILLY: Hail the ISS Shenzhou. Now.   
+BRUCE: Aye, Captain. This is the ISS Discovery hailing the ISS Shenzhou. Shenzhou, do you read? Over.   
+CONNOR [hologram]: Captain Tilly. To what do I owe the pleasure? And how can I return the favour?   
+TILLY: The only pleasure I take is from the blood of my enemies staining my uniform, Captain Connor. 
+
+[Ready room]
+
+LORCA: You know him?   
+BURNHAM: He was my Ops officer on the Shenzhou. I watched him die at the Battle of the Binary Stars. I knew we'd encounter familiar faces. But is this what it's gonna be like here? 
+
+[Bridge]
+
+TILLY: While scouring the asteroid belts of Porathia, searching for hidden rebels, I happened to come across a disabled shuttle. Inside, I found something I think you'll find most interesting. 
+
+[Ready room]
+
+(Lorca hits his head against the wall to make himself bleed.)   
+LORCA: Showtime. 
+
+[Bridge]
+
+CONNOR [hologram]: Captain Burnham. We... we thought you were   
+BURNHAM: You thought exactly what I wanted you and everyone else to think. Especially him. It was the only way I could capture this traitor.   
+CONNOR [hologram]: Most ingenious.   
+BURNHAM: I don't need your compliments, Connor. I need my ship.   
+CONNOR [hologram]: Of course.   
+BURNHAM: I expect you've kept her in perfect condition?   
+CONNOR [hologram]: Yes, Captain.   
+BURNHAM: Then bring her to me.   
+CONNOR [hologram]: We have a rebel group pinned down in this system. It would be better if you come to us.   
+TILLY: Is that how you treat your long-lost Captain? If you greeted me that way, Connor, I'd cut out your tongue and use it to lick my boots.   
+CONNOR [hologram]: We will alter course to the Discovery at once, Captain Burnham, and prepare for your arrival.   
+BURNHAM: Be sure that you do. 
+
+[Sickbay]
+
+TYLER: You called, Doc? You find anything?   
+CULBER: Yeah. Er, have you ever received any neurological therapies or marrow-diminution procedures before?   
+TYLER: No, not that I know of.   
+CULBER: Because there are masses of scar tissue surrounding all of your organs.   
+TYLER: Right. From my torture.   
+CULBER: Right, that's what the computer concluded when you first came aboard. But I've run more advanced tests, and if I'm reading these chondroblast-cell scans correctly, what the Klingons did to you can only be described as bone-crushing. They opened up your limbs, and they appear to have shortened your radius, your femurs, even your spinal cord.   
+TYLER: What are you getting at?   
+CULBER: Well, this is just a theory, Tyler, but remember we confirmed that no personality engrams were hidden under your native identity?   
+TYLER: Okay.   
+CULBER: Well there's some research that suggests that a new personality could be placed atop it, like an overlay, with the original personality still intact underneath. It appears that the Klingons have transformed you, both mentally and physically.   
+TYLER: Into what?   
+CULBER: That's what we have to figure out.   
+TYLER: Doc, I came here for a solution. Now, you said you could fix it.   
+CULBER: Please, sit down.   
+TYLER: I'm needed on a mission!   
+CULBER: I'm afraid you're not going anywhere without further examination.   
+TYLER: They need me!   
+CULBER: Well, that's just it. As far as I'm concerned, you're not you.   
+(Tyler hears a command in Klingonaase, and breaks Culber's neck.)   
+STAMETS: The enemy is here. 
+
+[Bridge]
+
+OWOSEKUN: Incoming warp signature. ISS Shenzhou approaching.   
+BURNHAM: My God.   
+BRYCE: Captain, we're being hailed.   
+TILLY: Open a channel. Inform Shenzhou, three to beam over.   
+BRYCE: Aye, sir. 
+
+[Transporter room]
+
+LORCA: Gonna look after her. Mister Saru, you're in charge now. Well, I guess you're in charge to anybody off the ship, Captain Killy. Maintain a safe distance. Close enough to transport us back as soon as Burnham gets her hands on the Defiant files.   
+TILLY: I won't let you down, sir.   
+LORCA: I know you won't. Tyler, where were you?   
+TYLER: Er, I'm not sure, sir.   
+LORCA: What?   
+TYLER: There's no excuse for my tardiness. Sorry, Captain.   
+LORCA: No more apologies. From now on, we're Terrans. Decency is weakness. It will get us killed. And the lives of everyone on this ship and in the Federation are at stake. So you do what you must. Whatever you must. To anyone. Understand?   
+TYLER: Aye, Captain.   
+BURNHAM: Clear, Captain.   
+LORCA: Guess that's the last time you're calling me Captain. Hopefully, just for a while. You ready? Energise. 
+
+[Shenzhou transporter room]
+
+CONNOR: Captain Burnham. Welcome back to the Shenzhou. We've made some modifications and eplaced the lateral-vector transport systems. Let me take this bastard off your hands. He's due for a world of pain.   
+BURNHAM: (draws phaser) Keep your hands off him. You think I'd let just anyone control the fate of the most valuable bounty in the galaxy? I'll take Lorca to the brig personally. There are any number of souls on board looking to serve up his severed head for their own glory.   
+CONNOR: Of course. I'll escort you, Captain. 
+
+[Shenzhou Brig]
+
+CONNOR: Only the finest agoniser booth reserved for the treacherous Lorca.   
+BURNHAM: Absolutely not.   
+CONNOR: Captain?   
+BURNHAM: What did I say to you? I do not want some overzealous guard killing this traitor before I have the chance. I would punish the entire ship for an error that grave!   
+CONNOR: We would never allow him the release of death, Captain.   
+BURNHAM: (to Tyler) See to it that he is installed properly here. I need to access my files. Escort me to the Ready room. 
+
+[Turbolift]
+
+CONNOR: You know, I almost didn't make it to Captain after you were gone. But I still came out on top. The Emperor saw something in me.   
+BURNHAM: Glad to hear it.   
+CONNOR: The crew, they all bowed after I won. But they didn't bow deeply enough. Not like they did with you. I needed to make them fear me, and now I finally think I know how.   
+(He pulls his knife and they fight.)   
+CONNOR: I don't need a blade to kill you, Captain.   
+(More punches. Burnham disables the artificial gravity temporarily so she can grab his fallen dagger and gut him.) 
+
+[Bridge]
+
+(Connor's corpse falls backwards out of the turbolift. After a pause, the bridge crew applaud.)   
+DETMER: The chair is yours, Captain.   
+BURNHAM: Dispose of him.   
+BRYCE: With pleasure, sir.-   
+BRIDGE CREW: Long live Captain Burnham! Long live the Empire!   
+BURNHAM: Long live the Empire. 
+
+[Captain's quarters]
+
+BURNHAM: You scared the hell out of me. How did you get in?   
+TYLER: Your access code was the same as on Discovery. You know, Head of Security. I know all of them. It's not just yours. So, did you get into the files? Get the information about the Defiant?   
+BURNHAM: No chance. Everybody on the crew, they're trailing me, trying to sidle up, curry favour. And I didn't want to rouse suspicion.   
+TYLER: I heard about what happened with Connor. I need to tell you something. Whatever you do, whatever this place makes you do, whatever happens to you, or me. However we change I am here to protect you. Nothing will ever stand in the way of that. Nothing. Do you understand what I'm saying?   
+BURNHAM: Yes. I'm saying it back.   
+(They kiss, etc., etc., etc. Down in the brig, Lorca is screaming in his agoniser booth.)   
+---  
+  
+Star Trek ® is copyright of  CBS Studios Inc . Copyright (C) 1966, Present. The Star Trek web pages on this site are for educational and entertainment purposes only. All other copyrights property of their respective holders.

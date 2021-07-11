@@ -1,0 +1,507 @@
+The Vulcan Hello   
+Stardate: 1207.3 / May 11, 2256  
+Original Airdate: 24 Sept 2017  
+
+
+[Klingon ship]
+
+T'KUVMA: They are coming. Atom by atom they will coil around us and take all that we are. There is only one way to confront this threat. By reuniting the twenty four warring houses of our empire. We have forgotten the unforgettable, the last to unify our tribes, Kahless. Together under one creed, remain Klingon. That is why we light our beacon this day. To assemble our people. To lock arms against those fatal greeting is...(in English) We come in peace. 
+
+[Desert planet]
+
+(Two women walk across a sea of sand.)   
+BURNHAM: We come in peace. That's why we're here. Isn't that the whole idea of Starfleet?   
+GEORGIOU: Hey, I taught you that.   
+BURNHAM: You don't trust me, Captain?   
+GEORGIOU: I trust you with my life, Commander Burnham, but it doesn't change the fact that you're lost. Very lost.   
+BURNHAM: Technically, we would be lost.   
+GEORGIOU: How long until that storm comes crashing down on us?   
+BURNHAM: I estimate one hour, 17 minutes, 22 seconds. Which is why I've made sure we're not lost. The map says the well is this way, Captain.   
+(They walk on.)   
+BURNHAM: This drought's going to last 89 years. The Crepusculans are facing extinction as a species. See those egg sacs? Those are their offspring.   
+GEORGIOU: They've survived here for over a thousand years, Michael.   
+BURNHAM: Right, and if we don't do something now, they won't live another thousand hours. The ambient radiation from a nearby drilling accident dried out their water table. If we can get in and out without making contact, we can steer clear of General Order One. And there is the well.   
+GEORGIOU: I stand corrected.   
+BURNHAM: Ye of little faith.   
+GEORGIOU: Oh, never had a doubt. (powers up phaser rifle) Tell me what I need to break through this bedrock.   
+BURNHAM: Point 7 second field burst at level setting 13.5.   
+(Three shots are sent down the well. Rumble, then water erupts out.)   
+GEORGIOU: Georgiou to Shenzhou. Two to transport.   
+(Static on comms. Thunder.)   
+BURNHAM: The storm is moving faster than I thought. The ship won't be able to pick up our signatures. Unless we can contact Lieutenant Saru, we could be trapped here until it's over.   
+GEORGIOU: Let's take a walk.   
+(The locals come out as the women leave.)   
+GEORGIOU: Follow my footsteps, Michael, even lines.   
+BURNHAM: Why? Captain, where are we going?   
+GEORGIOU: It's your turn to trust me, Number One.   
+BURNHAM: But now we're really lost. We're far too small to be seen with the naked eye. And you can't set a course without a star. Is it wise to be heading away from the village?   
+GEORGIOU: It's hard to imagine you've served under me for seven years. I think it's time that we talked about you having your own command.   
+BURNHAM: I'm grateful, Captain. Though I would be significantly more so if I thought we had any chance of ever returning to the ship.   
+GEORGIOU: Just keep walking, Michael. What will you do if you were stuck here for 89 years?   
+BURNHAM: A likely scenario unless we die here in the desert.   
+GEORGIOU: But say you lived.   
+BURNHAM: As a xenoanthropologist, I could reveal myself to the natives, learn their culture, try to fit in, if possible. And you, Captain? What will you do if we're trapped here for 89 years?   
+GEORGIOU: That's easy. I'd escape.   
+BURNHAM: These are our footprints. You've walked us in a circle.   
+GEORGIOU: Not exactly a circle.   
+(They look up to see a spaceship coming through the clouds towards them.)   
+BURNHAM: How did they find us?   
+GEORGIOU: I set a star.   
+(They are beamed aboard, and NCC 1227 heads back to space. 2+2=4 7)   
+BURNHAM: First Officer's Log, Stardate 1207.3. On Earth, it's May 11th, 2256. A Sunday. The crew of the USS Shenzhou has been called to the edge of Federation space to investigate damage done to one of our interstellar relays. Blast burns around the hole are inconclusive. Were they caused by an asteroid, or was it deliberately destroyed to limit Starfleet communications? And if so, by whom? Despite the risks of our mission, I remain optimistic. It's hard not to be in the face of such beauty. In this case, a binary star system. Around these two suns, ice, dust and gasses collide to form the planets future generations will call home. A humbling reminder that all life is born from chaos and destruction. 
+
+[Bridge]
+
+SARU: Based on initial readings, I would say the relay doesn't appear to have been damaged naturally. I don't like the look of that.   
+BURNHAM: Well, keep looking.   
+SARU: Well, the comment was figurative. I'm expressing concern.   
+BURNHAM: Finish your scans so you can express facts instead. The bridge is yours, Mister Saru.   
+SARU: Yes Commander. 
+
+[Ready room]
+
+GEORGIOU: Yes, Number One.   
+BURNHAM: Your Chief Science Officer is worried. Something took a bite out of our relay. Saru thinks it was malicious.   
+GEORGIOU: Saru's Kelpien. He thinks everything's malicious. What do you think? Any idea what it is?   
+BURNHAM: By all indications, nothing intelligent.   
+GEORGIOU: But?   
+BURNHAM: Starfleet's reputation for tech hygiene is exemplary. When a relay goes down, the Federation sends a ship to fix it.   
+GEORGIOU: You think someone's trying to get our attention?   
+BURNHAM: If they are, they have. 
+
+[Bridge]
+
+GEORGIOU: Lieutenant Saru, what do we have?   
+SARU: Ah. I have taken the initiative of keeping us at maximum scanning distance in case of anything threatening out there, Captain.   
+GEORGIOU: Yes. Number One tells me you suspect foul play.   
+SARU: Despite the First Officer's constant need to dismiss my ideas...   
+GEORGIOU: She apparently agrees with you.   
+SARU: Really?   
+GEORGIOU: I'm shocked as well. Ensign Connor, agreement between my senior officers. Note the date and time.   
+CONNOR: Noted, Captain.   
+BURNHAM: Is this amount of sarcasm always necessary?   
+GEORGIOU: Necessary, no. But I do like it.   
+SARU: There is something else out there.   
+GEORGIOU: What do you have, Saru?   
+SARU: Recalibrating sensors.   
+CONNOR: Electronic alignment in process.   
+SARU: Active scans are being deflected. I'm having trouble locating the source.   
+GEORGIOU: So something's out there, but no one can tell me where or what it is.   
+SARU: Ah, wait. I have it. No. Recalibrating.   
+GEORGIOU: Any time now, Mister Saru.   
+SARU: I have it.   
+GEORGIOU: Magnify. Is that what damaged our relay? What am I looking at?   
+SARU: Object of unknown origin.   
+GEORGIOU: Let's get more specific.   
+SARU: I'm unable to bring it into focus.   
+GEORGIOU: Number One?   
+BURNHAM: Range is 2,000 kilometres. Bearing 358 mark 269. Roughly 150 metres long, tucked into that accretion disk almost directly below us. It's in a sensor dead zone. Some kind of scattering field is confounding the ship's ability to translate the image.   
+SARU: As Science Officer, I can provide a far more concrete and in-depth analysis than simply reading data off a monitor, but considering it's scrambling our optical processors, how are we going to be able to see it? 
+
+[Ready room]
+
+(By using an optical telescope.)   
+GEORGIOU: Thoughts, Number One?   
+BURNHAM: With such little data, I'd prefer not to speculate.   
+SARU: I will. It's lurking. The scattering field it's emitting suggests intent. BURNHAM> We see something we don't understand and instantly cast judgment? Maybe it's lost. Maybe it's afraid to show us its whole self.   
+GEORGIOU: Hiding, but maybe hoping to be found.   
+BURNHAM: Here we are, speculating.   
+SARU: I respectfully recommend we leave it alone.   
+GEORGIOU: I'm not sure we have much choice. We can't lock on to it, and we don't have a shuttle maneuverable enough to navigate the ring.   
+BURNHAM: I'll go. All I need is a thruster pack.   
+SARU: With the high levels of radiation kicking off those binaries, she'll have 20 minutes until her DNA starts to unravel like noodles.   
+BURNHAM: Like noodles? I'll be back in 19. A flyby.   
+SARU: It seems a waste of the ship's resources. What will be gained?   
+BURNHAM: You do understand that being afraid of everything means you learn nothing. There's no opportunity to discover, to explore.   
+SARU: And here I thought we were doing a deep-space communication relay audit.   
+GEORGIOU: You're both right. Saru, go with her.   
+BOTH: Captain!   
+BURNHAM: Best to keep variables to a minimum. I wouldn't want to put my colleague at risk.   
+GEORGIOU: And you, Mister Saru? Are you equally happy not to be put at risk?   
+SARU: Oh, on any occasion, Captain.   
+GEORGIOU: You realise, once you reach that scattering field, you could be cut off from all communication.   
+BURNHAM: We've come all this way, Captain. It would be irresponsible to leave whatever that is unknown.   
+GEORGIOU: Just a flyby.   
+BURNHAM: Just a flyby. 
+
+[Airlock]
+
+COMPUTER: Commencing airlock depressurisation sequence.   
+CONNOR [OC]: Commander Burnham, this is Ensign Danby Connor. 
+
+[Bridge]
+
+CONNOR: On behalf of Captain Georgiou and the entire crew of the USS Shenzhou, we'd like to welcome you to flight 819 with non-stop service to the object of unknown origin. 
+
+[Airlock]
+
+CONNOR [OC] The temperature outside is a brisk minus 260 degrees Celsius, and we are forecasting some mild debris, but anticipate a smooth ride. 
+
+[On ship's hull]
+
+BURNHAM: This is Commander Burnham. Commencing reconnaissance mission to field void and unknown object. Data collection is on and nominal. All lights are green. 
+
+[Bridge]
+
+JANUZZI: Establishing interlink frequency with Commander Burnham's EV. Channel clear and ready to transmit.   
+DETMER: Confirming six second directional thrust for saucer realignment. 
+
+[On ship's hull]
+
+COMPUTER: Commencing final prelaunch system checks. Life support nominal. Oxygen nitrogen saturation nominal. Air pressure and flow nominal. Communication module active. Filters at 0.01% saturation.   
+(Burnham's magnetic boots detach from the hull.)   
+JANUZZI [OC]: Preflight checklist complete.   
+SARU [OC]: The object is 2,000 kilometres bearing...   
+BURNHAM: Computer, enable igniter.   
+COMPUTER: Ten seconds to thruster ignition. Ten, nine, eight, seven, six, five, four, three, two, one.   
+(Burnham zooms off towards her target.) 
+
+[Bridge]
+
+CONNOR: Body scan online, heart rate 79 and rising, BP 130 over 70. That's a little elevated for her.   
+GEORGIOU: She's having fun.   
+DETMER: Almost to the debris field, Captain.   
+GEORGIOU: Understood. Michael, watch your time. 
+
+[Space]
+
+GEORGIOU [OC]: 19 minutes, not a nanosecond longer.   
+BURNHAM: Aye, Captain. 
+
+[Bridge]
+
+BURNHAM [OC]: I'm fully aware.   
+GEORGIOU: Boost signal.   
+CONNOR: Unable to comply. Scattering field. It must be interfering with comms.   
+DETMER: Mission clock at 17 minutes, 30 seconds.   
+JANUZZI: Interference is starting to degrade resolution.   
+CONNOR: Routing additional power to subspace antennae. 
+
+[Space]
+
+BURNHAM: Shenzhou, do you copy?   
+COMPUTER: Distance to object 1,000 kilometers and closing.   
+BURNHAM: Shenzhou, do you copy?   
+COMPUTER: Implementing automatic course correction.   
+(Burnham comes to a halt.)   
+BURNHAM: Hello. Shenzhou, are you able to see this? 
+
+[Bridge]
+
+(Static on viewscreen.)   
+GEORGIOU: Michael, can you hear me? Acknowledge. Michael, can you hear me? Acknowledge.   
+JANUZZI: There's just too much interference. 
+
+[Space]
+
+BURNHAM: Shenzhou, do you copy? Data Collection Unit, are you there?   
+COMPUTER: Internal computer on line.   
+BURNHAM: Good. Mission time?   
+COMPUTER: 12 minutes, 58 seconds.   
+(Burnham flies forward.)   
+BURNHAM: Plenty of time to take a peek. Even from this distance, it's clearly not debris. 
+
+[Bridge]
+
+CONNOR: 12 minutes and 48 seconds until maximum radiation exposure.   
+DETMER: The Commander is less than ten metres from the outermost edge of the scattering field. 
+
+[Space]
+
+(At the huge elegant construct.)   
+BURNHAM: I can't remember who said sculptures are crystallized spirituality. Headlamp. But I see what they meant. This is Burnham in the blind. I'm above the object, which is old. Centuries old. It's difficult to tell if it was constructed or carved. The only word to effectively describe it is wow. But I'll try to be more precise. Its surface has the appearance of stone with an exoskeleton of metal alloy. Oh, incredibly intricate. The construction and design are nothing short of astounding. I wish you could see what I'm seeing. It is sublime. It's impossible to discern a practical purpose. I'm going to land on it, get a closer look. Nice and easy. Hold on. My presence has triggered some sort of motion response.   
+COMPUTER: Mission countdown, ten minutes, 15 seconds. Warning. Proximity alert.   
+(An armed and armoured figure is facing her.)   
+COMPUTER: Scanning for database recognition. Iconography confirmed. Klingon.   
+BURNHAM: I'm Commander Burnham of the United Federation of Planets.   
+(A Bat'leth is swung at her, she dodges and it sticks in the construct. Burnham fires her thrusters, picks up the Klingon then drops him in space.) 
+
+[Bridge]
+
+DETMER: Still no sign of Commander Burnham. Mission clock runs out in 15 seconds.   
+JANUZZI: There's still too much interference. I have Number One. Telemetry only. Blood pressure is 70 and falling. She won't make it unless we get her back now.   
+GEORGIOU: Transporter Control. Do we have her, Mister Weeton?   
+WEETON: Pattern integrity's too weak, Captain.   
+GEORGIOU: Saru, get a lock on her. Boost her signal.   
+SARU: Captain, there is no signal.   
+GEORGIOU: You better get me a signal. Remotely fire her jetpack.   
+NARWANI: She's offline.   
+CONNOR: She's floating free.   
+GEORGIOU: Engineering. Tractor beam?   
+WEETON: Can't get a lock. We're running manual calculations.   
+SARU: The scattering field is still a problem, Captain. We can't transport her until she clears it.   
+DETMER: She'll soon exhibit symptoms of acute radiation syndrome.   
+CONNOR: She's not gonna last much longer.   
+GEORGIOU: Hang on. 
+
+[Space]
+
+(Burnham is tumbling, her faceplate cracked)   
+JANUZZI: Commander Burnham, Shenzhou, please respond. Commander Burnham? Commander, please respond. Shenzhou to Commander Burnham. Commander, do you read? Please respond. 
+
+[Klingon ship]
+
+(A figure in an elaborate sarcophagus, wrapped apart from his head.)   
+T'KUVMA: Witness our brother, our Torchbearer, killed by the Federation interloper on our sacred beacon. I see you, as you see the end. Our Torchbearer honours us. First to die in our crusade for self-preservation.   
+(The sarcophagus closes, floats up and out into space to join many others as the assembly roars.)   
+T'KUVMA: Our ancestors, welcome our fallen brother Rejac, to their Black Fleet. They fight with us as we fight against our enemy. Remain Klingon.   
+(Burnham is receiving radiation treatment for her injuries.) 
+
+[Vulcan school - memory]
+
+(Each pupil stands in a bubble.)   
+COMPUTER: Pupil Burnham. Pupil Burnham. Klingon social order rests upon?   
+BURNHAM: Inviolable honour-shame dynamic.   
+COMPUTER: Correct. Klingon homeworld Qo'noS.   
+BURNHAM: Unwelcoming to the Federation.   
+COMPUTER: Correct. Klingon political order.   
+BURNHAM: Twenty four great Houses.   
+COMPUTER: Correct. Location of the most recent Klingon terror raid. Unacceptable duration between query and correct response. Number of survivors at the Human-Vulcan science outpost at Doctari Alpha.   
+(Young Miss Burnham is remembering flames.)   
+COMPUTER: Unacceptable duration between query and correct response. Number of survivors at Doctari Alpha.   
+BURNHAM: No.   
+COMPUTER: Unacceptable response. Number of survivors   
+BURNHAM: Please. Stop!   
+COMPUTER: Program paused.   
+(A Vulcan man looks down at her. The bubble opens.)   
+BURNHAM: Sarek. I'm sorry. I can do better.   
+SAREK: When emotion brings us ghosts from the past, only logic can root us in the present. Maybe I can try to learn Vulcan, to be quicker with my answers.   
+SAREK: Your human tongue is not the problem. It is your human heart. 
+
+[Therapy chamber]
+
+NAMBUE [OC]: Good. You're awake.   
+BURNHAM: I was dreaming.   
+NAMBUE [OC]: Oh? What about?   
+BURNHAM: Klingons. How did I get here?   
+NAMBUE [OC]: We transported you back aboard three hours ago.   
+BURNHAM: Three hours? 
+
+[Sickbay]
+
+COMPUTER: Antiproton therapy regimen incomplete.   
+NAMBUE: Commander, what are you doing?   
+COMPUTER: Session terminated prematurely. Medical Emergency.   
+BURNHAM: There's no time.   
+NAMBUE: Commander, wait. The recombination process is nowhere near finished. 
+
+[Corridor]
+
+NAMBUE: I need you back in the antiproton chamber. Do you understand the effect of genetic unspooling? You don't want to die that way. Commander! 
+
+[Bridge]
+
+DETMER: The binaries are kicking off serious QEs up and down the spectrum.   
+GANT: Targeting gets hot, but I still can't tell what I'm grabbing onto.   
+GEORGIOU: I want to know what's out there, people.   
+CONNOR: Okay, let's go around the horn again, by the numbers.   
+BURNHAM: What's going on?   
+GEORGIOU: Number One, you should be in Sickbay.   
+BURNHAM: What Have they made contact?   
+GEORGIOU: Who's they?   
+BURNHAM: There are Klingons out there. We need to go to red alert.   
+GEORGIOU: Michael. Almost no one has seen a Klingon in a hundred years.   
+BURNHAM: I have. One attacked me on that object. Check my helmet cam.   
+GEORGIOU: The footage was corrupted.   
+SARU: Internal sensors show that the Commander has entered the Bridge in an irradiated state. Without immediate treatment, her condition will most certainly be terminal.   
+BURNHAM: He was warrior caste. His... his EV suit bore a Klingon house insignia.   
+SARU: She also has a grade-three concussion.   
+BURNHAM: I am not delusional. This has nothing to do with a concussion. Philippa, there are Klingons.   
+GEORGIOU: Red alert. Tell me what happened.   
+BURNHAM: He ambushed me. I hit my thruster pack to get away. I somehow knocked him into his blade. I killed him. But that object could be hiding a Klingon raiding party, obscured behind their scattering field.   
+GEORGIOU: If there are Klingons in this sector, they may be responsible for the damage to our relay.   
+SARU: If there are Klingons in this sector, we should withdraw immediately.   
+GEORGIOU: This is Federation space. Retreat is not an option. Whatever is over there needs to show itself. If it's hiding Klingons, we've got to flush them out.   
+BURNHAM: Target phase cannons on the object.   
+SARU: We cannot destroy another culture's property on a whim.   
+BURNHAM: I didn't say anything about destroying it. Let's make them think we're going to attack.   
+GEORGIOU: Target the object.   
+GANT: We're locked on.   
+SARU: Something is scanning us. They've detected our weapons signature.   
+BURNHAM: Wait.   
+(A spaceship uncloaks.)   
+JARWANI: Impossible.   
+CONNOR: No warp signatures detected, Captain.   
+GEORGIOU: Then where did they come from? Mister Gant, disengage phase-cannon targeting. Number One, get to Sickbay. I need you fixed up and back on the bridge, stat. Mister Januzzi, contact Starfleet Command. Send an encoded message. Tell them we have engaged the Klingons. 
+
+[Klingon Ship]
+
+JANUZZI [OC]: Unidentified Klingon vessel, this is the Federation Starship Shenzhou. Please respond.   
+T'KUVMA: All is as it is meant to be. Who is Rejac's next in line?   
+OR'EQ: Or'Eq.   
+T'KUVMA: The honour falls to you to be our new Torchbearer.   
+OR'EQ: With respect, I find great wisdom in your teachings.   
+T'KUVMA: But?   
+OR'EQ: Can you be sure our brothers and sisters will answer your call?   
+T'KUVMA: They will because the prophecy commands all Klingons must come to the light of Kahless when it shines in the night sky.   
+OR'EQ: Will ships really fly across the galaxy because of a fable?   
+T'KUVMA: So, you doubt? You dishonour only yourself.   
+VOQ: (an albino) I will light the beacon.   
+T'KUVMA: Speak your name.   
+VOQ: Voq, son of none.   
+T'KUVMA: You have no family blade of your own. You cannot assume the birthright of a noble House. You are unworthy.   
+VOQ: I am worthy. Not by blood, but by faith. I serve the light of Kahless. (puts hand into flame) I am reborn in his flames.   
+(The Klingon moves his burnt hand out of the flames.)   
+T'KUVMA: I recognise you as one who has lived his life on the outside and yearns to be part of something bigger than himself. Some may see the colour of your skin as nature's mistake. I call it a mirror, for I see myself in you.   
+KLINGON 2: My Lord, long-range sensors show the movement, just as you predicted.   
+T'KUVMA: Excellent. The time has come. Take my blade, Voq, son of none. The honour of Torchbearer is yours. Light the beacon.   
+(Klingons chant light the beacon.)   
+JANUZZI [OC]: Unidentified Klingon vessel, this is the Federation Starship Shenzhou. Please respond. 
+
+[Bridge]
+
+JANUZZI: Unidentified Klingon vessel, this is the Federation Starship Shenzhou. Please respond. Is there any chance they can't hear us?   
+WEETON: You're transmitting on every subspace channel there is. Your orders, Commander?   
+(Burnham enters in uniform.)   
+BURNHAM: Any response?   
+SARU: None. Commander, there is something I'd like to show you. Their hull is covered in hollow, ornamental, metallic pods, thousands of them, tightly interlocked, forming a kind of armour.   
+BURNHAM: Not the most efficient defense.   
+SARU: I suspect its purpose is more symbolic than practical. They contain Klingon biological material in various states of decay. Remote dating is wildly divergent. Some bones date back thousands of years, others only hours old.   
+BURNHAM: Their entire ship is covered with coffins.   
+SARU: Commander, the Captain listens to you. Tell her we must withdraw.   
+BURNHAM: I'm afraid that's no longer possible.   
+SARU: Your world has food chains. Mine does not. Our species map is binary. We are either predator or prey. My people were hunted, bred, farmed. We are your livestock of old. We were biologically determined for one purpose and one purpose alone. To sense the coming of death. I sense it coming now. 
+
+[Ready room]
+
+(Reporting to a holographic Admiral.)   
+GEORGIOU: The Klingon flagship has a stealth mode. It's some kind of cloaking screen, unlike anything we've ever seen, Admiral. There may be more vessels out there than we know. We've reached out with every form of friendship greeting Starfleet has. They're blocking our hails.   
+ADMIRAL: It feels like a setup. Maybe our relay got too close for Klingon comfort, and they destroyed it to lure us out here.   
+GEORGIOU: You remember my First Officer, Michael Burnham?   
+ADMIRAL: Next time, you might try not disturbing the property of a warrior race we've hardly spoken to for a hundred years. Our only choice now is to navigate this situation with as much finesse as possible.   
+BURNHAM: Admiral, if I may. The ideal outcome for any Klingon interaction is battle. They're relentlessly hostile, sir. It's in their nature.   
+ADMIRAL: The Federation and the Klingon Empire have always been on the cold side of war. We've had only fleeting run-ins with them for a century, and now you presume to know their motivation because it is in their nature? Considering your background, I would think you're the last person to make assumptions based on race.   
+BURNHAM: With respect, it would be unwise to confuse race and culture.   
+ADMIRAL: The Europa and all fleet vessels within range will be at your coordinates in two hours. Hold your position. Do nothing. Absent provocation, understood?   
+GEORGIOU: Understood, Admiral.   
+COMPUTER: Signal terminated.   
+GEORGIOU: That went well. What's the mood outside?   
+BURNHAM: Saru is the only one talking. He strongly believes we should about-face.   
+GEORGIOU: There is a space station at Eagle Twelve, three light years away. The Andorian colony at Gamma-Hydra is six. Shenzhou is their only line of defense if the Klingons attack.   
+BURNHAM: Not if. When.   
+GEORGIOU: I have to hope that whatever happens here can serve as a bridge between our civilisations.   
+BURNHAM: That's the diplomat in you talking. What does the soldier say?   
+GEORGIOU: Nothing good.   
+(Flash of light outside.)   
+SARU [OC]: Captain to the Bridge. 
+
+[Bridge]
+
+GEORGIOU: Status? Massive photonic activity on the Klingon object, Captain. Output is over one billion lumens per square metre.   
+CONNOR: Optical sensors overloading.   
+GEORGIOU: Bring plasmatic filters online.   
+CONNOR: Rerouting power.   
+GEORGIOU: Is that a weapon?   
+BURNHAM: It seems to be some sort of signal emitter.   
+GEORGIOU: Where are my filters?   
+CONNOR: They're at 100 percent, Captain.   
+(Piercing high-pitched sound.)   
+CONNOR: Initiating emergency shutdown.   
+JANUZZI: That noise is some kind of electromagnetic subspace wave-form.   
+CONNOR: Narrowing channel range.   
+DETMER: Adjusting orientation to minimise dispersal.   
+GEORGIOU: Somebody turn it down.   
+SARU: Aye, Captain.   
+GEORGIOU: All the way down.   
+SARU: Acoustics are muted. That's the ship's superstructure in sympathetic vibration.   
+BURNHAM: It's a signal pulse.   
+GEORGIOU: Is there a message?   
+BURNHAM: This may be the message. Captain, what if they're calling for the same thing we are? Backup.   
+GEORGIOU: Long-range sensors to the maximum, Saru. If more Klingons are on their way, I want as much notice as possible.   
+BURNHAM: Permission to leave the bridge, Captain?   
+GEORGIOU: Are you kidding?   
+BURNHAM: It's relevant.   
+GEORGIOU: Granted. Ensign, get me a status report, deck by deck.   
+CONNOR: Aye, Captain. 
+
+[Burnham's quarters]
+
+BURNHAM: Computer.   
+COMPUTER: Working.   
+BURNHAM: Open dedicated subspace channel 222AA7.   
+COMPUTER: Use of this frequency requires diplomatic authorisation.   
+BURNHAM: Voiceprint authorise. Burnham, Michael.   
+COMPUTER: Confirmed.   
+(A hologram appears.)   
+SAREK: Commander Burnham.   
+BURNHAM: Hello, Sarek. I'm happy to see you.   
+SAREK: So many years, and still you allow emotional considerations to impede your logic.   
+BURNHAM: They inform my logic. I need your help.   
+SAREK: I assume the timing of the call was not coincidental. The quadrant reports a new star in the sky. What have you done out there, on the edge of Federation space?   
+BURNHAM: We've encountered the Klingons.   
+SAREK: How rare to meet one's own demons in the flesh.   
+BURNHAM: I killed one.   
+SAREK: In light of the fact that they killed your parents, some might think that only fair. However, if a death was necessary, I am satisfied it was not yours. I'm most certain you did not call me for emotional solace.   
+BURNHAM: We're facing off. No fire has been exchanged. But they didn't turn on their beacon until Starfleet was on its way to our position. I think they're summoning more of their kind.   
+SAREK: An odd proposition given that their Empire has been in disarray for generations. But you are describing something out of the ordinary. Restraint in the face of conflict. When a civilisation acts in opposition to its instincts, it may be under the influence of something, or someone, new. Great unifiers are few and far between, but they do come. Often such leaders will need a profound cause for their followers to rally around.   
+BURNHAM: A war.   
+SAREK: Be very careful that your assumptions are not being driven by your past.   
+BURNHAM: This isn't about what happened, Sarek. It's what's happening now. How did the Vulcans achieve diplomatic relations with the Klingons?   
+SAREK: That is a solution particular to us. One cannot assume it would work on a ship commanded by humans.   
+BURNHAM: Sarek, please.   
+SAREK: I caution you, be considered with how you use this information. You cannot save lives that have already been lost.   
+BURNHAM: Tell me. How did you keep the Klingons at bay? 
+
+[Bridge]
+
+GEORGIOU: Engineering, report.   
+WEEDON: Internal damage, negative. Core is 100%.   
+BURNHAM: Captain, we have to fire on them. Hit that ship with everything we've got.   
+GEORGIOU: Absolutely not. They haven't powered weapons. They don't appear to pose an imminent threat.   
+BURNHAM: The Klingon threat is always imminent and inevitable.   
+GANT: Tactical log's ready.   
+GEORGIOU: Thank you, Mister Gant. I'd like to remind you, we're wildly outgunned.   
+BURNHAM: 240 years ago, near H'Atoria, a Vulcan ship crossed into Klingon space. The Klingons attacked immediately. They destroyed the vessel. Vulcans don't make the same mistake twice. From then on, until formal relations were established, whenever the Vulcans crossed paths with Klingons, the Vulcans fired first. They said hello in a language the Klingons understood. Violence brought respect. Respect brought peace. Captain, we have to give the Klingons a Vulcan hello.   
+GEORGIOU: If their intention is to attack, balling up our fists won't dissuade them.   
+BURNHAM: It would be logical for you to take into account my success rate during our seven years together, and execute my plan without further challenge before we're dragged into war.   
+GEORGIOU: Starfleet doesn't fire first. That's all, Number One.   
+BURNHAM: We have to.   
+GEORGIOU: In my Ready room. Now. Lieutenant Commander, you have the Bridge.   
+SARU: Yes, Captain. 
+
+[Ready room]
+
+GEORGIOU: Computer, privacy.   
+BURNHAM: Captain   
+GEORGIOU: How dare you challenge me?   
+BURNHAM: I apologise for my insubordination.   
+GEORGIOU: Don't you realise that kind of talk can destabilise a crew?   
+BURNHAM: Don't underestimate them. I've overseen their exercises. They're ready for battle.   
+GEORGIOU: Battle is not a simulation. It's blood and screams and funerals. I taught you better than this. We don't start shooting on a hunch, and we don't take innocent lives. Period. I understand your history with the Klingons.   
+BURNHAM: My commitment to this course of action is not emotional. We target its neck, cut off its head   
+GEORGIOU: You're still injured. You're not thinking clearly.   
+BURNHAM: Thousands of lives will be lost because of failure to act.   
+GEORGIOU: Whose lives? Victims of your imaginary war?   
+BURNHAM: And your life, Captain. Yours.   
+GEORGIOU: Stand down, Commander Burnham. That's an order.   
+BURNHAM: You're right. I may not be myself.   
+GEORGIOU: Easy, Michael.   
+(Vulcan neck-pinch.)   
+BURNHAM: I'm sorry. 
+
+[Bridge]
+
+BURNHAM: You're relieved, Mister Saru.   
+SARU: Where is the Captain?   
+BURNHAM: I provided her with Klingon intel from a personal source on Vulcan. She's passing it to the Admiral. Weapons, slot a pair of photon torpedoes in the tubes and compute a firing solution targeting the neck of that Klingon ship.   
+SARU: Is the plan to fire on the Klingons, Commander?   
+BURNHAM: We have to be ready in case that's what the Captain decides.   
+SARU: Are you acting on the Captain's orders?   
+BURNHAM: I'm your superior officer. We are in a high-risk scenario. Question chain of command again and I'll remove you.   
+SARU: Commander, it's just... your breathing is elevated. Perspiration's visible at your hairline. I fear what you are doing betrays the wishes of our Captain.   
+BURNHAM: Target phasers. Take your station, Commander.   
+SARU: This is mutiny.   
+BURNHAM: Move, Saru. Tactical.   
+GANT: We're locked on.   
+BURNHAM: Fire!   
+GEORGIOU: Belay that order!   
+BURNHAM: Captain, please. I'm trying to save you. I'm trying to save all of you.   
+(Georgiou aims her phaser at Burnham.)   
+GEORGIOU: Stand down.   
+(It goes dark outside.)   
+CONNOR: Captain! Incoming. Warp signatures detected.   
+GEORGIOU: Is it Starfleet?   
+BURNHAM: No. Those ships are Klingon.   
+---  
+  
+Star Trek ® is copyright of  CBS Studios Inc . Copyright (C) 1966, Present. The Star Trek web pages on this site are for educational and entertainment purposes only. All other copyrights property of their respective holders.

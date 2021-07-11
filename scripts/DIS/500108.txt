@@ -1,0 +1,342 @@
+Si Vis Pacem, Para Bellum   
+Stardate: 1308.9  
+Original Airdate: 5 Nov 2017  
+
+
+[Gagarin Bridge]
+
+(NCC 1309 is getting battered.)   
+KOVIL: This is Captain T'Shen Kovil of the Federation Starship Gagarin. We are under attack. I repeat, we are under attack by six Klingon vessels. Any Starfleet ship in range, please respond.   
+LORCA [OC]: This is USS Discovery. We've got your back. 
+
+[Bridge]
+
+RHYS: Klingon vessels locking weapons on us.   
+LORCA: Detmer, evasive pattern beta nine.   
+DETMER: Acknowledged.   
+LORCA: Mister Rhys, could I trouble you to fire at something?   
+RHYS: Aye, sir.   
+LORCA: Rhys?   
+RHYS: I see them, Captain.   
+LORCA: Owosekun, got anything? Owosekun.   
+OWOSEKUN: Negative, sir. I have power signatures that are off the charts, but our sensors can't seem to isolate the individual ships when they have those invisibility screens up.   
+LORCA: They can't fire till they're visible. Keep our fingers on the trigger. Get ready to move quickly. Understood?   
+ALL: Aye, Captain.   
+LORCA: Hard to port, Detmer. Mister Rhys, lock on the Bird-of-Prey targeting Gagarin.   
+(They get that one, but get hit by another.)   
+OWOSEKUN: Shields holding at seventy percent.   
+KOVIL [OC]: Thanks for the assist, Discovery.   
+LORCA: Doesn't look like a fair fight to me, Kovil. Can you go to warp?   
+KOVIL [on viewscreen]: Warp engines are down. Our shields are almost gone.   
+RHYS: Sir, a Klingon destroyer just decloaked right under Gagarin.   
+OWOSEKUN: We've picked up two battle cruisers. They're flanking us, sir.   
+LORCA: Just concentrate fire on the destroyer.   
+OWOSEKUN: Shields holding at thirty two percent.   
+DETMER: Two Birds-of-Prey approaching, sir.   
+LORCA: Right, get us in between the Klingons and the Gagarin.   
+DETMER: Aye, sir.   
+OWOSEKUM: Direct hit, Captain. Shields below ten percent.   
+LORCA: Did we get both torpedoes? Did we get them both?   
+RHYS: I don't know, sir. I can't   
+(KaBOOM on viewscreen.)   
+LORCA: The Gagarin's gone. It's over. Black alert. Get us out of here.   
+COMPUTER: Black alert. Black alert. 
+
+[Engineering]
+
+(Tilly puts a spore container into the console, Stamets gets hooked up to the nav computer.)   
+LORCA [OC]: Bridge to Engineering, are you ready to jump?   
+TILLY: Lieutenant?   
+STAMETS: I'm ready.   
+TILLY: Aye, Captain. Spore drive ready. 
+
+[Bridge]
+
+LORCA: Go.   
+(They jump.)   
+LORCA: There will be time to grieve. This is not that time. I want a full damage report immediately. Airiam, you have the conn.   
+AIRIAM: Aye, Captain. 
+
+[Engineering]
+
+(Stamets totters out of the cell.)   
+TILLY: Feel all right, Lieutenant?   
+STAMETS: What are you doing down here, Captain?   
+TILLY: Sorry, what?   
+STAMETS: What?   
+TILLY: Did you just call me Captain?   
+STAMETS: That's absurd. Why would I do that?   
+TILLY: I don't know. I must   
+STAMETS: Are you daydreaming on the job? Are you so bored here that your mind is wandering?   
+TILLY: No, sir. I'm sorry, I didn't, er, mean to...   
+STAMETS: Well then, don't. 
+
+[Ready room]
+
+LORCA: Where were the other ships patrolling this sector? Why were we the only Starfleet vessel able to render aid?   
+TERRAL [hologram]: The Hoover and the Muroc were simultaneously ambushed along with the Gagarin. All were destroyed. How many of the Klingon ships you engaged were equipped with invisibility screens?   
+LORCA: All of them. All six.   
+TERRAL [hologram]: Then our latest intelligence reports are confirmed. Kol of House Kor has managed to revive the Klingon Ship of the Dead, and is now sharing its stealth technology with any House that will offer him fealty. Eventually, every ship in the Klingon armada will be able to attack us out of nowhere. That makes your mission at Pahvo Starfleet's highest priority. What is your team's status?   
+LORCA: They transported to the surface eighteen hours ago, and have maintained radio silence to avoid detection by the Klingons.   
+TERRAL [hologram]: We lost 462 souls today, Captain. And that number will increase exponentially until we are able to detect those invisible ships. I'm certain I have made myself clear.   
+LORCA: Abundantly. 
+
+[Pahvo]
+
+(A lush planet with two massive moons in close orbit.)   
+BURNHAM [OC]: Personal log, Specialist Michael Burnham. Stardate 1308.9. We landed on Pahvo eighteen hours ago. It's a seemingly uninhabited planet, but a unique and, for us, strategic one. Every tree, rock, and blade of grass here vibrates with its own specific tone. Together, these combine to form a kind of music - the signature sound of the planet, heard everywhere on the surface. The sound is even broadcast into space by a towering crystal structure, a sort of naturally occurring transmitter. It is Starfleet's plan to modify the electromagnetic frequency of Pahvo's signal and harness it as a form of sonar that can detect the presence of the cloaked Klingon vessels decimating our fleet, make them visible to our sensors, and turn the tide of war in our favour.   
+SARU: The transmitter's still 8.4 kilometres north-northeast.   
+BURNHAM: You've been setting an accelerated pace since we got here. It's unfortunate that the transmitter's interference meant we had to beam down thirty kilometres away, but look around, it could be worse.   
+TYLER: Yeah. It's two days until pick-up. We're making great time.   
+SARU: Perhaps it's a great time for you humans. I, of course, could make it there in fifteen minutes.   
+TYLER: Didn't know you were such a sprinter, Mister Saru.   
+BURNHAM: Kelpiens pursued by apex predators have exceeded speeds of eighty kilometres per hour. They can also sense predators from as much as ten kilometres.   
+SARU: And we particularly enjoy being discussed in the third person while present.   
+BURNHAM: I'm sorry.   
+SARU: But you are accurate. I possess visual, auditory, and tactile receptors more acute than yours, which is why I am being tortured by this planet's constant noise, and you are not.   
+TYLER: Well, I can hear that. What's going on?   
+(Filaments gather from the air to form a more tangible shape. Saru hands Tyler his phaser rifle.)   
+SARU: Keep this pointed at the ground. Greetings. We are explorers from the Federation Starship Discovery. We come in peace.   
+TYLER: Thought this planet was uninhabited.   
+BURNHAM: It's not registering as a lifeform, sir. According to this, it's actually not distinguishable from the rest of the forest.   
+SARU: I believe it wants us to accompany it.   
+TYLER: The transmitter's in the opposite direction.   
+(More ghostly indigenous inhabitants surround them.) 
+
+[Klingon ship]
+
+L'RELL: General Kol.   
+KOL: The scar is an improvement, L'Rell.   
+L'RELL: Earned in battle. I wear it with pride. Congratulations. House after House has vowed their allegiance to you.   
+KOL: Do not mistake me for your fallen idol T'Kuvma. He sought unity. I seek only Klingon supremacy under my rule.   
+L'RELL: The dissemination of the cloaking technology has earned you many loyalists. I wish to count myself, my House, among them.   
+KOL: Your loyalty isn't enough. What else can you offer me?   
+L'RELL: My skills as an interrogator. My spies tell me you have a prisoner who refuses to speak.   
+KOL: Bring me some information that will add to my glory, and I will consider your request. 
+
+[Pahvo]
+
+(The landing party arrive at a simple hemispherical structure. They enter to see a cluster of crystals in what would otherwise be the fire pit on Earth.)   
+TYLER: What's it saying?   
+BURNHAM: Universal translator's got nothing.   
+SARU: I don't think they mean us any harm.   
+TYLER: You can't know that.   
+SARU: If their intentions were nefarious, I would be the first to sense a threat. We need to establish communication. (he removes his equipment vest) I am Commander Saru. As a First Contact specialist, I would like permission to analyse the sound you are emitting to determine if it is a form of language.   
+(The entity surrounds his extended arm, then he pulls away suddenly.)   
+BURNHAM: Are you all right?   
+SARU: It was not painful, just disorienting. I believe I felt their intentions, their desire to converse. This will take some time.   
+BURNHAM: We can't touch that transmitter now.   
+TYLER: General Order 1?   
+BURNHAM: No. Order 1 restricts us from revealing ourselves to sentient beings that aren't warp-capable. We're well beyond that. Now our duty is to follow First Contact protocol, and we can't borrow or alter their property without them understanding our objective and agreeing to it. 
+
+[Cornwell's cell]
+
+(L'Rell enters, carrying torture equipment. She speaks English.)   
+L'RELL: Scream. I said, scream.   
+CORNWELL: No.   
+(L'Rell roars at her, Cornwell roars back. They hear the guard outside laugh and walk away.)   
+L'RELL: Good. You were convincing. The guard is gone. Now we can talk. 
+
+[Pahvo]
+
+(Night, and the moons are still in the same place in the sky.)   
+TYLER: You think Saru can make the Pahvans understand why we need their transmitter?   
+BURNHAM: He's got to. Convincing them to let us complete our mission is the only way.   
+TYLER: Then we defeat the Klingons.   
+BURNHAM: And the war ends.   
+TYLER: Easy.   
+BURNHAM: Easy.   
+TYLER: When all this fighting is over, I've got big plans. I own a little place at Lake Shasta. I take a little sailboat on the water. Lake's full of trout this time of year. Ever had fresh-roasted trout?   
+BURNHAM: I haven't.   
+TYLER: What? It's actual heaven. I'll camp on the beach, watch the stars fall.   
+BURNHAM: Sounds perfect.   
+TYLER: What?   
+BURNHAM: Our futures look different. You go back to your lake house and I go back to prison. My sentence was life. This is just temporary.   
+TYLER: Well, maybe we just leave that transmitter alone. You can't go back to prison if we're still at war.   
+BURNHAM: The needs of the many   
+TYLER: Are worth fighting for. Are worth dying for. But so are the needs of the few.   
+BURNHAM: Or the one?   
+TYLER: (sotto) Come here.   
+(They kiss.) 
+
+[Mess hall]
+
+TILLY: Okay. What is going on with you?   
+STAMETS: Excuse me?   
+TILLY: At first, the Tardigrade DNA booster seemed like a good thing, but now you're back to your old persnickety, grumpy self. So, what's the deal?   
+STAMETS: Nothing. You're dismissed, Cadet. Okay, I'll admit that something has been happening to me. One minute, I know where I am, who you are, what I'm doing, and then, all of a sudden, what I know changes. It gets jumbled.   
+TILLY: Have you told Doctor Culber about this?   
+STAMETS: That would put Hugh in an impossible position. As a medical officer, it would be his duty to report the effects of my genetic manipulation. I'd be sent to a Federation lab to be poked and prodded. On the other hand, if he doesn't tell and Starfleet finds out, his career would be ruined. Either way, I hurt him.   
+TILLY: Okay. We'll monitor these episodes. Hopefully, they'll pass, right? You don't seem reassured. Usually I'm pretty good at providing that. That's kind of my thing. 
+
+[Cornwell's cell]
+
+L'RELL: What happens to those who Starfleet captures?   
+CORNWELL: In war? They're imprisoned, interrogated humanely. Eventually, they're returned to their people as part of any final peace settlement.   
+L'RELL: So you do not execute them.   
+CORNWELL: The Federation has no death penalty.   
+L'RELL: I wish to defect. There's nothing here for me now. The p'taQ my people now follow has no honour. It is because of Kol I am alone. I had like-minded brothers and sisters, even the one chosen by Lord T'Kuvma to be his successor. But he was chased away. Forever gone. Everyone is gone. My vessel is in a nearby hangar. Kahless willing, we will use it to both escape with our lives, and you will guarantee me safe passage onto your ship.   
+CORNWELL: My ship?   
+L'RELL: Discovery. I know its shuttle delivered you to the trap on Cancri IV.   
+CORNWELL: Why should I trust you?   
+L'RELL: Because we need each other, Admiral. And what other option do you have? 
+
+[Pahvo]
+
+BURNHAM: How far did you get?   
+SARU: We are still establishing a vocabulary. So, not very far.   
+TYLER: Are they native to this planet?   
+SARU: They are the planet. Everywhere you go, you can feel the symbiosis between nature and the living spirit. Amazing to think that while we fight our war, a place of peace and harmony not only survives, it thrives.   
+BURNHAM: Is the transmitter their creation?   
+SARU: I can't be sure, but they desperately want to know others and to be known, and have been trying to share who they are with the rest of the universe since since the beginning of their existence.   
+BURNHAM: You look exhausted.   
+SARU: It's the constant noise generated by this planet. It's better when I'm with our Pahvan friend, but still, it is ubiquitous.   
+TYLER: Do you think you can relay the details of our mission to it before the Discovery comes back to collect us?   
+SARU: Well, I sincerely hope so. For now, I think it would be best to call it a night.   
+(But Saru cannot sleep. He goes outside the structure.)   
+SARU: Can you please make it stop? Even for a moment?   
+(The Phavans enter him.)   
+SARU: We were biologically determined for one purpose and one purpose alone. I sense the coming of death. I sense it coming now. We have come to Pahvo for your help. We have come to end this war. I'm so afraid. So afraid.   
+(The Phavans leave him. Next morning, Saru returns to the structure.)   
+BURNHAM: Oh, hello, Commander. Looks like someone got some sleep.   
+TYLER: You do seem better.   
+SARU: I am, thank you. I just apprised the Captain of our new circumstances.   
+TYLER: How did you do that? Discovery's not supposed to be in comm range right now.   
+SARU: Oh, a simple modification. I altered the frequency of my communicator, linking it to the planet's transmitter. It boosted the signal sufficiently.   
+BURNHAM: Our new friend was okay with that?   
+SARU: The Pahvans are incredibly hospitable. They will grant us anything we want.   
+BURNHAM: So you're saying we have permission to complete our mission as planned?   
+SARU: Some parameters of the mission have changed. I require your communicators. Thank you so very much.   
+(He crushes them.)   
+BURNHAM: What are you doing?   
+SARU: Oh, do not be alarmed. These are no longer necessary. The Pahvans have invited us to remain here with them.   
+BURNHAM: We can't do that, Commander.   
+SARU: In time, you will experience this world as I do. You must remain open to it. Even your limited sensory abilities will improve eventually.   
+BURNHAM: Saru, something has happened to you. You are not thinking clearly.   
+SARU: Not at all. The Pahvans have found a way to exist in perfect balance and absolute harmony with their world. They have already achieved everything we say we seek through our exploratory and diplomatic efforts. The only answers we require for the advancement of all species is here, and it's ours for the taking. I must go tell our hosts we have accepted their offer. They will be so happy.   
+(Saru leaves.)   
+TYLER: One thing's for sure, he lied about the Captain. There's no way he cut us loose.   
+BURNHAM: Obviously Saru has been compromised.   
+TYLER: We can't abandon the mission.   
+BURNHAM: I'm not sure we actually have the Pahvans' permission.   
+TYLER: You wanna wait for the Pahvans' permission? There won't be any Pahvans if we don't proceed.   
+BURNHAM: You know the Federation has procedures. No starship may interfere with the normal development of any alien life or society.   
+TYLER: Saru said they would grant us anything, right? Well, modifying the transmitter is included in anything.   
+BURNHAM: But we can't trust anything he says.   
+TYLER: Michael, this may be our only way of ending the war.   
+BURNHAM: What about Saru?   
+TYLER: This isn't up for debate. Given Saru's condition, I'm the senior officer now. 
+
+[Klingon ship]
+
+CORNWELL: Certain we can get to your ship undetected?   
+L'RELL: I know this vessel as if it were my home. It was my home, once. First I am ensuring the end of Kol's days. He neglected T'Kuvma's message. He desecrated this vessel with his fetid presence. Before we depart, I will set the ship's warp core to overload.   
+CORNWELL: He really disappointed you.   
+L'RELL: He disgusts me. My only regret is that I will not be able to see his pretty painted face as he takes his final breath.   
+KOL: L'Rell, where are you taking the prisoner?   
+L'RELL: You're not what I expected.   
+CORNWELL: Neither are you.   
+(Cornwell grabs L'Rell's daqtagh and they fight. L'Rell disarms her, they trade a few blows then L'Rell knocks Cornwell down, picks her up and headbutts her unconcious.)   
+L'RELL: At least you won't die in a cage, Admiral.   
+(L'Rell lifts Cornwell up and holds her against an energy conduit, electrocuting her.)   
+L'RELL: She took my blade and tried to escape. I will dispose of the body.   
+(Kol leaves, L'Rell drags Cornwell away.) 
+
+[Pahvo]
+
+(Saru enters the structure carrying what is probably a large fungi.)   
+SARU: There will be no synthetic protein rations tonight, Lieutenant. Where's Burnham?   
+TYLER: We had a fight. She's walking it off.   
+SARU: I am sorry. But soon you will know what it means to exist without conflict. I'm going to find Burnham. She must be starving.   
+TYLER: Er, Commander? Can I ask you something? When we first came here, the sounds of this place, you said, were like a physical assault. What changed?   
+SARU: I believe I was the problem. I did not understand what I was perceiving. I was not yet in harmony. The Pahvans helped me. Sounds like you were fighting something, then you just stopped.   
+SARU: Yes.   
+TYLER: I don't know how to do that.   
+SARU: What is it you are fighting?   
+TYLER: Well, everybody wants to defeat the Klingons. I... I wanna hurt them.   
+SARU: They tortured you. The feeling is understandable. But all that is past now.   
+TYLER: You don't just forget something like that. You can't.   
+SARU: What's the other option? Allowing it to transform you into something worse than those who did this?   
+TYLER: If it means I can make them suffer like they made me suffer, then yes.   
+SARU: Come here, Lieutenant. The Pahvans gave me something you might find useful.   
+(A large crystal.)   
+SARU: Understanding requires a common frame of reference. Try to feel the harmony, the peace this world offers.   
+(Tyler puts his hand on the crystal, which glows green.)   
+SARU: Your intentions are false. You've been trying to distract me, to delay me.   
+(Saru grabs Tyler by the throat.)   
+SARU: Where is Burnham? Where has she gone? 
+
+[Transmitter]
+
+(She has gone to the crystal transmitter and is setting up her equipment. Saru runs through the forest.)   
+BURNHAM: Come on, come on, come on.   
+(Establishing uplink with USS Discovery.)   
+BURNHAM: Yes.   
+(She sees Saru running across the ridge, and starts typing into the computer.) 
+
+[Klingon ship]
+
+L'RELL: Grafk. Torath. Silrek.   
+(They are all dead.)   
+K'RELL: I will end Kol. I will avenge you all. I swear it to you. 
+
+[Transmitter]
+
+BURNHAM: Come on, come on, come on, come on, come on. Yeah. Michael Burnham to Discovery. Discovery, do you read me?   
+(Saru leaps from the ridge and grabs her. He throws her aside and starts smashing the equipment.   
+BURNHAM: Saru, please, stop.   
+(He kicks her away then starts dragging her. She grabs a handy branch and hits him with it. He returns his attention to the computer, Burnham grabs her phaser and tries to stun him.)   
+BURNHAM: Saru, this isn't you. Is this what harmony and balance look like? Where is the peace you say you found here?   
+SARU: You have taken it from me. You won't stop taking.   
+BURNHAM: I would give anything for a second, a millisecond, of peace. But until the war is over, none of us can have it. Saru, staying here, it's not gonna fix anything. We have the power to end this conflict. Saru, we need you.   
+SARU: You will not take this away from me, too.   
+(The Pahvans deliver Tyler to the scene.)   
+TYLER: Burnham. Are you okay?   
+SARU: (to the Pahvans) I am sorry. I was trying to protect you. You have to make them all understand. We were wrong to come here. Our war is not your mistake to correct.   
+BURNHAM: Please listen. Saru told you who we are, and like you, we seek harmony. But we face a threat that doesn't share that same goal. But with your help and our technology, we can put an end to this conflict. Isn't that why you exist? To keep harmony and peace? You have to help me finish what I've begun.   
+SARU: If the Klingons discover you've helped us, they will hurt you. Please, don't do this.   
+(The transmitter pulses.)   
+LORCA [OC]: Discovery to landing party. We have a lock on your coordinates. Prepare for transport.   
+SARU: No. No, please. No. 
+
+[Sickbay]
+
+CULBER: Keep it brief.   
+BURNHAM: Thank you. Saru, please look at me. Are you all right?   
+SARU: I lied to you and Lieutenant Tyler. I attacked you. I could have killed you.   
+BURNHAM: You weren't yourself.   
+SARU: But I was. We are born afraid, we Kelpiens. It's how we survive. As such, my whole life, I have never known a moment without fear. The freedom of it. Not one moment. Until Pahvo. 
+
+[Klingon ship]
+
+L'RELL: Before her escape, the human confirmed that Discovery possesses a powerful technology. Were it replicated, your conquest could reach far beyond the limits of our Empire.   
+KOL: I had hoped for more. You were reckless.   
+L'RELL: I was effective.   
+KOL: She got away from you.   
+L'RELL: Not for long. General Kol, if you don't see my value, I will take my leave now.   
+KOL: Stop! L'Rell. (she kneels) There will be more prisoners before this war finds its end. A skilled interrogator will be crucial as long as you vow allegiance to House Kor.   
+(He paints her face with the same red stripes as he has.)   
+L'RELL: My Lord, I would be honoured to serve you.   
+KOL: Did you think I would not see through your deceit? Show her how House Kor treats liars.   
+KLINGON: My Lord! We have intercepted a massive signal from a planet called Pahvo.   
+KOL: A message?   
+KLINGON: An invitation.   
+KOL: Set a course for Pahvo. 
+
+[Bridge]
+
+LORCA: You said the adjustment to the Pahvan transmitter was a success.   
+BURNHAM: I thought it was, sir. The Pahvans repaired our signal inhibitor after Saru destroyed it. I watched it happen.   
+LORCA: Mister Bryce?   
+BRYCE: The signal strength has increased by a factor of ten to the 12th power. The music's gone. All that's being transmitted now is a massive electromagnetic wave.   
+BURNHAM: Captain, I don't understand. The Pahvans   
+TYLER: Sir, Specialist Burnham integrated our technology exactly as ordered. We should now be able to detect any invisible Klingon ships - within range of the Pahvans' signal.   
+LORCA: Apparently not. The transmitter's sending out a new signal, limited to two subspace bands. Ours and the Klingons'. What you did, Burnham, was invite the enemy to join us here.   
+BURNHAM: No. The Pahvans did that. Their entire existence is an effort to bring harmony to discord, and they know about our conflict. They're trying to bring us together. They think they're helping.   
+RHYS: Captain, long-range sensors have detected an incoming Klingon vessel entering the system at high warp.   
+LORCA: Can you identify what it is?   
+TYLER: It's the Ship of the Dead, sir. The Sarcophagus.   
+BURNHAM: We're the Pahvans' only line of defence. We have to protect them, sir. We have to fight.   
+---  
+  
+Star Trek ® is copyright of  CBS Studios Inc . Copyright (C) 1966, Present. The Star Trek web pages on this site are for educational and entertainment purposes only. All other copyrights property of their respective holders.

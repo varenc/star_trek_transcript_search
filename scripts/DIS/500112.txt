@@ -1,0 +1,336 @@
+Vaulting Ambition   
+Stardate: Unknown  
+Original Airdate: 21 Jan 2018  
+
+
+[Shuttlecraft]
+
+COMPUTER: Course confirmed to Imperial Flagship ISS Charon at classified coordinates. Distance, 27 million kilometres. Engaging engines at warp factor one. Autopilot activated.   
+BURNHAM: I received a transmission from Commander Saru before we departed. He managed to decrypt the Defiant data that we smuggled off of the Shenzhou. The file has been redacted, but there is some data on how the Defiant crossed into this universe. A phenomenon called interphasic space. But where that space is, the exact coordinates, struck from the record.   
+LORCA: All right, well, we just have to hunt down the original report. If the complete archive's anywhere, it'll be in the Imperial Palace which is, fortunately, where we've been summoned. Some people would see that glass as half full.   
+BURNHAM: I synthesised a custom analgesic to numb your nerve receptors, as you requested. It should help with the agonisers.   
+LORCA: Much appreciated. Listen to me. You'll get the data we need on the Defiant, and you'll get us out of there. I know you will. Burnham, I need you. You need you. What are you afraid of?   
+BURNHAM: Georgiou.   
+LORCA: You mean Emperor Georgiou.   
+BURNHAM: Logic tells me she's not the woman that I betrayed. But this feels like a reckoning.   
+LORCA: Your Georgiou is dead. She's a ghost.   
+BURNHAM: Haven't you ever been afraid of a ghost?   
+COMPUTER: Warp drive disengaged. Imperial Palace secure perimeter detected.   
+CHARON COMPUTER: ISS Shenzhou shuttlecraft identity confirmed. You are cleared to approach the Charon. 
+
+[Engineering]
+
+SARU: You said there had been improvement in his condition.   
+TILLY: Since restarting spore therapy, Lieutenant Stamets' neural activity has increased across all metrics. Glucose and oxygen consumption is up significantly. Beta and infra-low waves are off the curve, and, I know it's subjective, but he really does look better. I mean, just look at his skin, it's so dewy.   
+SARU: I admire your optimism, but let us call this what it is. A coma.   
+TILLY: We began this course of treatment to reconnect him with his consciousness. Something is going on in that head of his. We just need to let it happen.   
+SARU: It will need to happen far more quickly if he's to help us get home. Not much good came from the Defiant data. If the captain and Burnham cannot unearth the coordinates that tell us where the Defiant crossed over, our spore drive remains our only way home. And it remains inoperable while Lieutenant Stamets is in that state.   
+POLLARD [OC]: Commander Saru, medical emergency. Report to sickbay immediately.   
+SARU: Acknowledged. Forge ahead. Fix him.   
+(Saru leaves.)   
+TILLY: Are you in there, Lieutenant? Are you in there? 
+
+[Stamets' mind]
+
+(Starting in the spore forest.)   
+STAMETS: What is this? Am I dead? Is this the afterlife? A Are you some sort of narcissistic Virgil leading me to judgment?   
+M-STAMETS: Yes, Paul. You've been wrong about everything. There is a God, and she's very, very mad at you right now. (laughs) I totally had you for a second there. You can't deny it. Ha-ha! You should've seen your face. I mean our face. Hoo! That was classic.   
+STAMETS: So there is no God?   
+M-STAMETS: Well, you're still alive, so technically, who knows?   
+STAMETS: But if I'm not dead, who are you?   
+M-STAMETS: You, in my universe. Nice to meet you.   
+(They shake hands and suddenly appear in a corridor.)   
+STAMETS: Hey, this is my ship.   
+M-STAMETS: No, you're still in the mycelial network. But it knows what's familiar to you, and it's trying to make you feel at home. Your comatose physical self is still on board the real Discovery, but your neural energy has taken a little detour.   
+STAMETS: Interesting. How'd you get stuck here?   
+M-STAMETS: Like you, I'm an astromycologist. I was conducting experiments in my lab on the Emperor's palace ship, there was an accident, and my mind ended up here, too. It seems we share parallel fates. From what I can tell, my physical form is also in a catatonic state on my vessel. I was losing hope until you navigated the mycelial highway for the first time. I tracked your comings and goings. I've been trying to make contact, but I haven't been able to transmit more than glimpses, images of my universe.   
+STAMETS: That explains what I've been seeing. Visions of a palace. Tilly as a Captain. I thought I was going insane, but it was just you reaching out. Where's the exit?   
+M-STAMETS: Well, that's where you come in. You're the navigator. Navigate us the hell out.   
+STAMETS: Let's get to my lab. Maybe it's there.   
+(The light flickers.)   
+STAMETS: What is that?   
+M-STAMETS: There's something wrong inside the network. Something corrupted. You don't want to get swept up in it. I did once and was lost for days.   
+STAMETS: Engineering is that way.   
+(Darkness is moving down the corridor towards them.)   
+M-STAMETS: Let's go.   
+STAMETS [memory]: The enemy is here.   
+(Stamets screams in the real world.)   
+STAMETS: It's over there.   
+(Discovery Engineering, dark and unpopulated.)   
+STAMETS: Welcome to our way out. 
+
+[ISS Charon Throne room]
+
+MADDOX: Lords of the Empire, privileged guests, all hail her most Imperial Majesty, Mother of the Fatherland, Overlord of Vulcan, Dominus of Qo'nos, Regina Andor. All hail the Emperor, Philippa Georgiou Augustus Iaponius Centarius.   
+ALL: All hail the Emperor!   
+MADDOX: Emperor, I present to you, Captain Michael Burnham of the Imperial Starship Shenzhou.   
+GEORGIOU: Captain Burnham. A face I thought I'd never see again in the flesh. Choose one. You should know what you're looking for in a Kelpien.   
+BURNHAM: That one.   
+GUARD: Move.   
+(The chosen Kelpien is taken out.)   
+GEORGIOU: You brought us a gift.   
+BURNHAM: Captain Gabriel Lorca, delivered to the Emperor's justice. And long overdue.   
+LORCA: You think I'm gonna bow to you? I don't bow.   
+(The Emperor takes a baton from a guard and hits Lorca twice, knocking him down.)   
+GEORGIOU: Your life will be long, Gabriel, and every single moment of it will be spent in our agonisers. A fair price to pay for your vaulting ambition.   
+MADDOX: Take him to Brig C. Only the finest for our new guest.   
+GUARD: Let's go.   
+(Lorca is dragged away.)   
+GEORGIOU: You could have died hunting that traitor across the universe. I am so happy you didn't.   
+(applause) Let her rest a bit and have her at my residence by dinner.   
+GUARD: Yes, Emperor.   
+GEORGIOU: There is so much to discuss. Everything will be the way it was, dear daughter. 
+
+[Sickbay]
+
+VOQ-TYLER: (in Klingonaase) Filthy humans! Let me die!   
+POLLARD: I don't know what else to do with him, sir. He's damaged a biobed, wrecked our scanning array.   
+SARU: Well, sedate him.   
+POLLARD: I have.   
+VOQ-TYLER: (in Klingonaase) I will kill you all in T'Kuvma's name!   
+POLLARD: Yes, that's Klingon.   
+SARU: Burnham said he claimed to be a Klingon, but how could that be possible?   
+POLLARD: His genome matches the one we have for Lieutenant Ash Tyler in our Starfleet database. His brainwave patterns, however, are highly irregular. Unless someone can tell me how they put a Klingon inside a Starfleet officer's body, I don't know how we can treat him.   
+TYLER: Commander. Commander. Burnham, is she all right?   
+SARU: She's fine.   
+TYLER: Good. Saru, help me, please. (then starts screaming again)   
+SARU: Dose him again. Now, please. 
+
+[ISS Charon Emperor's suite]
+
+(As Lorca is put into an agoniser booth, and it is switched on.)   
+BURNHAM: The food is delicious, as always.   
+GEORGIOU: No one prepares Kelpien like the Imperial chef. Here, have my ganglia. You deserve a treat.   
+(Burnham eats the morsel from Georgiou's chopsticks.)   
+BURNHAM: You're too generous.   
+GEORGIOU: Why would you leave me, then? I gave you everything. Best education, riches beyond imagination, even your own ship.   
+BURNHAM: I earned my command on the Shenzhou.   
+GEORGIOU: You were hesitant to use it back at Harlak. Those rebels could have escaped. I had to dispatch them myself.   
+BURNHAM: I had it under control.   
+GEORGIOU: You've grown soft.   
+BURNHAM: And you've grown cruel. If you miss me, then say it. Otherwise, let me be.   
+GEORGIOU: I thought you were dead.   
+BURNHAM: Lorca's men are everywhere, even here aboard this ship. If you had known I was alive, they would have known, too. It would have been impossible to ambush him the way that I did.   
+GEORGIOU: Never could tell when you were lying to me. Fortunately, this time I know. (draws a dagger) You always tried to outsmart me, Michael, even as a child. Why? Was it the loss of your parents? My attention to the Empire? Or were you just built that way? Why were you never satisfied? I knew you had become Lorca's collaborator, and you were conspiring to kill me and take my throne. Why did the two of you come back here?   
+BURNHAM: Please, Philippa.   
+GEORGIOU: It's Philippa now? Not so long ago, it was Mother. Guards! Take her to the throne room. Gather my council. She is to be executed by my own hand for treason. 
+
+[Stamets' mind - Engineering]
+
+STAMETS: To map an exit from the network, it's helpful to know exactly where Discovery entered, as a way to get our bearings. And once I know that, we can hunt for the best path out. Huh.   
+M-STAMETS: What?   
+STAMETS: The coordinates of our final jump aren't here.   
+M-STAMETS: Tell me why you're not useless?   
+STAMETS: Tell me why you can't stop clawing at your arm.   
+M-STAMETS: It's nothing.   
+STAMETS: It's nice to know I'm a terrible liar in every universe.   
+(Mirror-Stamets pulls up his uniform sleeve. There is a fungus in his skin.)   
+STAMETS: Is that Armillaria ostoyae?   
+M-STAMETS: It's the network. It's taking me over. I've been here too long.   
+CULBER: Paul.   
+STAMETS: Hugh? Did you see him?   
+M-STAMETS: See who?   
+STAMETS: He was here. That must mean he's trapped, too.   
+M-STAMETS: Oh, no, no, no, no, no, no. If you don't focus on the task at hand, you'll get lost and we'll never escape. Stop! 
+
+[ISS Charon Throne room]
+
+GEORGIOU: Captain Michael Burnham. We have sentenced you to death for crimes committed against the Terran throne. Do you have any last words before we collect our retribution? At least you are showing some steel. I do love you, Michael. I would never grant anyone else in the Empire the mercy of a quick death.   
+BURNHAM: You don't love me. You don't love me because you don't know me. Before today, you and I have never met. I am Michael Burnham, but I am not your Michael Burnham. I'm from another universe. I have proof. It's in my pocket.   
+GEORGIOU: Lord Eling, retrieve this proof.   
+ELING: Yes, Emperor.   
+(It is the late Captain Georgiou's insignia.)   
+BURNHAM: That piece of metal contains the quantum variance from my world. It's subtle, but it's there. There's absolutely no way to fake it. It belonged to my Captain. It belonged to you. Our bond, it seems, is strong enough to cross universes.   
+GEORGIOU: What a quaint concept. Parallel universes.   
+(The Emperor sends a circular weapon flying around the Council, killing them all except Eling.)   
+GEORGIOU: Lord Eling, can you keep a secret?   
+ELING: Yes, Emperor.   
+GEORGIOU: Good. Clean this up. Never speak a word of it to anyone, and I'll make you Governor of Andor.   
+ELING: Yes, Emperor.   
+GEORGIOU: This is from the United Federation of Planets, and apparently, so are you. 
+
+[Discovery Brig]
+
+(Saru pushes a tray of food through the forcefield to L'Rell.)   
+L'RELL: You must want something.   
+SARU: Lieutenant Tyler is in distress. He thinks he is a Klingon.   
+L'RELL: Then he has awoken.   
+SARU: I do not know what your people had planned for him, but this cannot have been it. You must be able to help him.   
+L'RELL: There is nothing to help. Beneath that man's inferior carriage is a devoted warrior who has sacrificed everything and T'Kuvma's chosen successor. He will light the way for his race. He will win this war.   
+SARU: I guess you didn't hear the news. The Discovey was thrown into a parallel universe. Here, the war is over, and you lost.   
+L'RELL: Lies.   
+SARU: I wish they were. But the war and all your devious designs mean nothing now. All that remains is the suffering of an individual I suspect you care for. I do not know where your Voq ends and our Tyler begins, but they are both in jeopardy. The question is, will you ease their pain?   
+L'RELL: The one you call Tyler was captured in battle at the Binary Stars. We harvested his DNA, reconstructed his consciousness and rebuilt his memory. We modified Voq into a shell that appears human. We grafted his psyche into Tyler's, and in so doing, Voq has given his body and soul for our ideology. If he suffers for that choice, so be it. He accepted that suffering in order to best the enemy. That is what it means to be a soldier. That is war. 
+
+[Stamets' mind]
+
+(Chasing the figure in white down endless corridors.)   
+STAMETS: Hugh? Hugh?   
+(And into their quarters. The doors slam shut.)   
+CULBER: Hi. I wasn't sure if you'd come home. All the other times I'd try to lure you from work with dinner, wine   
+STAMETS: Are you caught in the network, too?   
+CULBER: No. I'm gone.   
+STAMETS: Gone?   
+CULBER: You don't know, do you? Paul, I'm so sorry, but I died. 
+
+[ISS Charon Throne room]
+
+BURNHAM: You have no reason to hold my Captain any longer. He shouldn't have to suffer for your Lorca's crimes.   
+GEORGIOU: The Captain may not be comfortable where he is, but I am, for now.   
+BURNHAM: Emperor, my ship and crew are here by accident. All we want is to return to our universe, but we need your help to do that.   
+GEORGIOU: You're interlopers from an alien army. What reason from any universe would I have to help you?   
+BURNHAM: Because you care for Burnham. Despite her betrayal, you said you loved her.   
+GEORGIOU: Your people are dangerous. The Federation. I know it well from the Defiant's files. There is a reason why they're classified. Equality. Freedom. Cooperation.   
+BURNHAM: Cornerstones for successful cultures.   
+GEORGIOU: Delusions that Terrans shed millennia ago. Destructive ideals that fuel rebellions, and I will not let you infect us again.   
+BURNHAM: We just need access to the redacted information about the Defiant. We believe that it'll help us get back. Share it, and you have my word you'll never hear from us again.   
+GEORGIOU: Those documents will not help you. The Defiant crossed here through interphasic space, which not only resulted in a temporal anomaly, but also had devastating cognitive effects on every crew member. They went insane. They tore each other apart. I'm surprised the same thing didn't happen to your crew.   
+BURNHAM: We arrived here a different way.   
+GEORGIOU: How?   
+BURNHAM: An engine malfunction.   
+GEORGIOU: Warp engines do not breach the barriers between universes. Tell me what powers your ship.   
+BURNHAM: Our ship jumped here with its displacement-activated spore hub drive.   
+GEORGIOU: I would like to see this technology. Let's make an exchange. Your engine schematics for your freedom.   
+BURNHAM: If I agree, how do I know you'll let us go?   
+GEORGIOU: Was your Georgiou a woman of honour?   
+BURNHAM: Entirely.   
+GEORGIOU: Then you have no reason to believe I am not as well. 
+
+[Discovery brig]
+
+SARU: Tyler broke free of his restraints. This is what he did.   
+(Saru holds up a PADD for L'Rell to see.)   
+SARU: He is too violent for Sickbay. None of our doctors can help him. I will ask you one final time. Will you?   
+L'RELL: No.   
+SARU: Energise.   
+(Voq-Tyler is beamed into L'Rell's cell. She catches him as he collapses.)   
+SARU: You have sealed this being's hellish fate. Human versus Klingon in one body. That is war.   
+L'RELL: It can be undone. But only my hands can tend to him. 
+
+[ISS Charon Brig]
+
+GUARD: Captain.   
+MADDOX: I'll take it from here.   
+GUARD 2: Aye, Captain.   
+(The guards leave.)   
+MADDOX: Tell me, Gabriel. Where have you been hiding since the Buran was blown to bits?   
+LORCA: With friends.   
+MADDOX: What friends do you have left? The Emperor rounded up all your loyalists from every corner of the Empire. We had to fill the aft hangar bay with agoniser booths just to accommodate them all.   
+LORCA: Yet here we are, just the two of us. Feels like it's getting personal.   
+MADDOX: It is personal. She was my sister. This is DNA from a Comtaxan parasite on Tonnata VII. Doesn't mix well with ours. Admit what you did.   
+LORCA: Or what?   
+(Another prisoner is brought in.)   
+BARLOW: Gabriel? You're alive. I... I thought they were lying.   
+LORCA: Chin up, soldier.   
+BARLOW: They kept asking us all if you were really dead, and I said no. I said no because I wanted to believe.   
+MADDOX: What do you have to say?   
+LORCA: About what?   
+MADDOX: My sister.   
+LORCA: There are so many women. It's good to be the Captain.   
+MADDOX: Say her name. Say her name so I can spare your friend.   
+BARLOW: Just... just say it. Please?   
+LORCA: Leave him out of this. It's between you and me.   
+(Maddox injects Barlow with the parasite. He glows red and burns up slowly before exploding.) 
+
+[Discovery Sickbay]
+
+(With an array of phasers trained on them both, L'Rell approaches Voq-Tyler. She is wearing devices on her hands with lasers sticking out at the ends of the fingers. The lasers fire into Voq-Tyler's skull and he screams.)   
+L'RELL: (in Klingonaase) When I see you, I do not see the human. I see the warrior who laid down all for his people.   
+VOQ-TYLER: (in Klingonaase) Kahless, give me light. Father, give me wisdom. Mother, give me drink. Aargh!   
+(English) Brother, give me strength. Sister, give me family.   
+(L'Rell remembers Voq on the Ship of the Dead, and gives the Klingon death-howl.) 
+
+[Stamets' mind - quarters]
+
+STAMETS: I saw you die. I watched Tyler kill you. I held your body in my arms. I thought it was a dream.   
+CULBER: I wish it were. I remember your arms around me. You made me feel safe. You always did.   
+M-STAMETS [OC]: Stamets, get out of there! This place is quicksand. If we don't leave, we die.   
+STAMETS: Computer, play Kasseelian opera. The aria he loves, the one I hate.   
+CULBER: This won't change anything.   
+STAMETS: I don't want it to change. I want it to be the way it was. Please let it be the way it was.   
+(Suddenly brushing their teeth.)   
+STAMETS: This is perfect.   
+CULBER: This was always my favourite time with you.   
+STAMETS: Did you know I loved you? I don't think I told you enough.   
+CULBER: You showed me, all the time. Tell me about your day.   
+STAMETS: It was awful. My partner is dead. My life's work has been a waste. What I knew to be beautiful is hostile. And the mycelial network is hell.   
+CULBER: No, Paul. You were right. The network is a gift. It's the thread that weaves life through space. But it is in danger.   
+STAMETS: Yeah, we're in danger. It's eating me alive. Well, the other me.   
+CULBER: Well, the other you deserves it. In his universe, that Stamets exploited the network for his own gain. He's the one who corrupted it. I needed you to follow me to warn you. The damage is spreading. Eventually everything, everywhere, will be exterminated. You have to save us by saving the network.   
+STAMETS: How? I can't even find my way out.   
+CULBER: You're in a coma on the Discovery, and the simplest way back is just to open your eyes.   
+STAMETS: I don't want to say goodbye.   
+CULBER: It's never goodbye. Isn't that what you've been trying to teach all of us? Nothing in here is ever truly gone. I believe in you, Paul. I love you. (long kiss) Follow the music, Paul. Look for the clearing in the forest. Open your eyes.   
+(Stamets wakes up in full uniform.)   
+M-STAMETS: I'm back. He did it. He did it.   
+(We are shown that he is in Med 01 on the ISS Charon.) 
+
+[Discovery Engineering]
+
+TILLY: Oh, my. Lieutenant, you're back. He's back. And he's leaving. Lieutenant, I don't think this is a good idea. Do you know how long you've been out? Some things have happened.   
+STAMETS: I know about Hugh. But I need you to come with me right now. 
+
+[Spore forest]
+
+STAMETS: It's too late. The sickness has already spread to our supply. 
+
+[ISS Charon Throne room]
+
+SARU [on monitor]: Please do not take offense, Burnham, but I would feel better if Captain Lorca were the one making this request for a rendezvous.   
+BURNHAM: Trust me, so would I. But he's locked up. His safety depends upon your arrival.   
+SARU: Acknowledged.   
+BURNHAM: I'm sending you the coordinates to the Emperor's ship now. We'll see you soon.   
+GEORGIOU: The Federation, through and through. They would never abandon you and your Captain. Rules to live by. Rules to die by. 
+
+[ISS Charon Brig]
+
+MADDOX: My sister loved you. Say her name and beg for forgiveness.   
+(Agoniser to maximum.)   
+LORCA: Aargh! 
+
+[ISS Charon Throne room]
+
+BURNHAM: I need to see my Captain. He won't survive your agonisers much longer. He's suffering.   
+GEORGIOU: Let him. If your bond to me crosses universes, then so does his treachery. The Lorca I knew was my right hand. I trusted him with the Empire's most sensitive missions. I trusted him with you.   
+BURNHAM: I don't understand.   
+GEORGIOU: When I adopted you, you gained a mother. But despite my constant guidance and affection, something was still missing. In Lorca, you saw a father, until you grew up and it became more.   
+BURNHAM: You're saying Lorca and I...?   
+GEORGIOU: He groomed you. He chose you.   
+LORCA [memory]: I did choose you. But not for the reasons you think.   
+GEORGIOU: He told you that destiny brought you together.   
+LORCA [memory]: Different universe, and yet somehow the same people had a way to find each other. It's the strongest argument I've ever seen for the existence of destiny.   
+GEORGIOU: He said he'd cross time and space itself to take what was rightfully his.   
+LORCA [memory]: Apparently the 133 jumps we've made filled in the gaps.   
+SARU [memory]: Extraordinarily fortunate coincidence.   
+BURNHAM: You're sensitive to light.   
+GEORGIOU: Only compared to a human from your universe. It's the singular biological difference between our two races. 
+
+[ISS Charon Brig]
+
+MADDOX: Don't die on me, you depraved bastard.   
+(Maddox opens the agoniser booth.) 
+
+[ISS Charon Throne room]
+
+BURNHAM: He needed me to get onto this ship. You wouldn't have let him on otherwise. 
+
+[ISS Charon Brig]
+
+MADDOX: I need you to live or I'm as good as dead.   
+LORCA: You're right.   
+(They fight.) 
+
+[ISS Charon Throne room]
+
+BURNHAM: He needed me to get to you.   
+(Lorca uses the defibrillator paddles on Maddox's head.)   
+BURNHAM: None of this was an accident. My so-called Captain's not from my universe. He's from yours. 
+
+[ISS Charon Brig]
+
+(Maddox is twitching.)   
+LORCA: Ava. Her name was Ava. And I liked her. But you know how it is. Somebody better came along.   
+(And stomps on Maddox's head.)   
+---  
+  
+Star Trek ® is copyright of  CBS Studios Inc . Copyright (C) 1966, Present. The Star Trek web pages on this site are for educational and entertainment purposes only. All other copyrights property of their respective holders.

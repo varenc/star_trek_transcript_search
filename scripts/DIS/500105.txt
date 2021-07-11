@@ -1,0 +1,442 @@
+Choose Your Pain   
+Stardate: December, 2256  
+Original Airdate: 15 Oct 2017  
+
+
+(We tour the Discovery, deserted of crew, until we come to Engineering, where Burnham is looking at herself in the cell, attached to the nav-comp and surrounded by spores. She initiates the drive and her other self screams. She joins in, then wakes up. Tilly is snoring.) 
+
+[Laboratory]
+
+BURNHAM: Doctor Culber, I've been studying the creature since it came on board. It's incredibly regenerative, but with each jump Discovery makes, it cries out. And the last 48 hours, it seems sluggish, depressed.   
+CULBER: We don't know if it experiences stress or pain like we do.   
+BURNHAM: You think I'm anthropomorphising.   
+CULBER: You discovered how to use the Tardigrade for navigation. A victory that maybe isn't a victory anymore, given the creature's deteriorating condition. Let me run some tests.   
+BURNHAM: Thank you. 
+
+[Briefing room]
+
+LORCA: In less than three weeks, the Discovery has prevented the destruction of the dilithium mines at Corvan 2, broken the Klingon supply line at Benzar, and routed an attack through the Ophiucus system.   
+CORNWELL: The reason you've been brought here today is it has become increasingly imperative that we duplicate Discovery's spore-drive technology, and get it into as many Starfleet vessels as possible.   
+LORCA: To that end, I ordered Lieutenant Stamets to release the schematics of our propulsion system immediately after our first successful jump.   
+CORNWELL: Our new classified facility in Jefferson, Iowa received them and is building units according to those specs. We need more Tardigrades to ensure safe, accurate navigation. Every ship, every starbase, every colony is on the hunt for these creatures. In the meantime, we want Discovery to dial back on its missions.   
+LORCA: No, hold on a second.   
+CORNWELL: There is concern at the highest levels of leadership about taxing our prime asset.   
+LORCA: Discovery should be out there, winning battles.   
+CORNWALL: We believe the enemy may have identified Discovery as our secret weapon. You are hereby ordered to rein in your use of the spore drive unless authorised by Starfleet. With respect to the war effort, the fleet will pick up the slack caused by your absence.   
+LORCA: That's a lot of slack.   
+CORNWALL: We'll manage. 
+
+[Mess hall]
+
+TILLY: Hi, roomie. Oh my God, you look awful.   
+BURNHAM: Thank you, Tilly.   
+TILLY: That's it. We're gonna have lunch right now. I mean it. I mean that you're gonna tell me what's going on with you.   
+BURNHAM: There's nothing to tell.   
+TILLY: Er, okay. Er, that's okay. I get it. It was bound to happen sometime. There are so many interesting people on this ship, I'm sure you've made tons of friends by now.   
+BURNHAM: Tilly, it's not you. It's me.   
+TILLY: Well, since that is very rarely the case in my case, I would love to hear how it's not me.   
+BURNHAM: I'm out of sorts, and preoccupied.   
+TILLY: About?   
+BURNHAM: The Tardigrade. Each time we use the spore drive, it gets weaker.   
+TILLY: You're stressed.   
+BURNHAM: I barely have a job here. I've never been less busy.   
+TILLY: But then that gives you the time and space to actually process what you're going through emotionally.   
+BURNHAM: I don't like it.   
+TILLY: Really? I love feeling feelings. 
+
+[Briefing room]
+
+(Lorca injects one of his damaged eye. It hurts. Cornwell enters and turns the lights up.)   
+LORCA: Ah! Turn it down.   
+(She does.)   
+CORNWELL: Sorry. I didn't know you were still in here.   
+LORCA: Just saddling up for the ride, Admiral.   
+(He injects his other eye.)   
+CORNWELL: Why you didn't get your damn eyes fixed?   
+LORCA: Oh you know, Katrina, I don't trust doctors.   
+CORNWELL: Should I take that personally?   
+LORCA: It's punishment for blindsiding me in that pathetic excuse for a strategy session.   
+CORNWELL: Cut the crap, Gabriel. By the way, there's something I didn't bring up, lest you think I was piling on. The matter of Michael Burnham.   
+LORCA: No, no, no. Starfleet regulation 139   
+CORNWELL: Eight two allows you to conscript virtually anyone in time of war.   
+LORCA: And so I have.   
+CORNWELL: This organisation's only convicted mutineer is viewed by many, justifiably or not, as the cause of our conflict with the Klingons. To see her avoiding justice does nothing for general morale.   
+LORCA: When I accepted the command, I was given the fullest latitude to fight this war how I saw fit.   
+CORNWELL: But why give everyone another reason to judge you?   
+LORCA: Are you uncomfortable with the power I've been given, Admiral?   
+CORNWELL: I'm your friend.   
+LORCA: Mmm hmm. It's my ship, my way. 
+
+[Shuttlecraft]
+
+COMPUTER: Warning. Incoming warp signature detected. Klingon class D7 battle cruiser identified. Tractor beam engaged.   
+(Lorca and his pilot grab phaser rifles. The rear hatch opens and the pilot is quickly overpowered, then killed with a bat'leth.   
+KLINGON: Captain Lorca. 
+
+[Bridge]
+
+CORNWELL [hologram]: The pilot was killed in the subsequent firefight. Capitan Lorca was captured by the Klingons.   
+SARU: Do we know where he was taken, Admiral?   
+CORNWELL [hologram]: No. By the time we responded to the shuttle's distress beacon, the enemy's warp trail had dissipated. Since you're Acting Captain, I'm sending you what little intel we have. This was a targeted abduction. It's possible the Klingons have learned of the existence of Discovery's propulsion system, and taken Lorca to learn more.We need him back, Mister Saru, before they pry those secrets out of him.   
+SARU: We will find him, Admiral.   
+CORNWELL [hologram]: Good luck. (communication ends)   
+SARU: Lieutenant Detmer, set course for the shuttle's last known coordinates, maximum warp. Lieutenant Owosekun, establish search parameters sector by sector. Calculate potential escape vectors correlating to all known Klingon bases, colonies, and planets, within five lightyears.   
+(His threat ganglia twitch.)   
+SARU: Burnham. What are you doing on the Bridge?   
+BURNHAM: I came to speak to Captain Lorca.   
+SARU: I'm afraid that won't be possible. Commander Airiam, alert Lieutenant Stamets that we may be making multiple jumps in rapid succession throughout Klingon space to see if we can track the ship that made the abduction.   
+AIRIAM: Yes, sir.   
+BURNHAM: Multiple jumps?   
+SARU: Do you have an issue with that plan?   
+BURNHAM: I just don't know how feasible it's going to be. 
+
+[Ready room]
+
+BURNHAM: I'm concerned that we are negatively impacting the Tardigrade with each jump we make.   
+SARU: I was told it's virtually indestructible.   
+BURNHAM: I disagree with that assessment.   
+SARU: Do you have proof that we are harming it?   
+BURNHAM: Not as of yet.   
+SARU: I am not finding this information to be helpful in any way. We are about to embark on a rescue mission to save the life our Captain. Are you suggesting we forgo that?   
+BURNHAM: No, of course not. I'm just worried. I don't know how much more the Tardigrade can sustain. The more you hurt someone, the less helpful they become.   
+SARU: Focus on the task at hand. There will be no more discussion of the Tardigrade until the Captain's back safe. Understood?   
+BURNHAM: Yes, sir.   
+SARU: You may go.   
+(Burnham leaves.)   
+SARU: Computer, list Starfleet's most decorated captains, living and deceased.   
+COMPUTER: Working.   
+(April, Robert. Archer, Jonathan. Decker, Matthew. Georgiou, Philippa. Pike, Christopher.)   
+SARU: Based on their service records, is it possible to identify the qualities most essential to their success?   
+COMPUTER: Characteristics most often cited include bravery, self-sacrifice, intelligence, tactical brilliance, compassion.   
+SARU: Computer, initiate new protocol. Please record all data related to my performance as Acting Captain of Discovery, and cross-reference with success parameters. Note where deviations occur.   
+COMPUTER: State the purpose of the new protocol.   
+SARU: There is an element aboard this ship that causes me to second-guess myself. That cannot continue. I must remain clearheaded in pursuit of today's mission.   
+COMPUTER: Alternative solution. Eliminate destructive element.   
+SARU: Not an option. 
+
+[Prison cell]
+
+(Someone is fiddling with Lorca's uniform. He grabs him by the throat.)   
+LORCA: Who are you?   
+MUDD: The name is Mudd. Harcourt Fenton Mudd. Harry for short. I reiterate. Ouch!   
+(Lorca lets him go.)   
+LORCA: Where are we?   
+MUDD: On a resort off Antares Minor. You must try the spa. The hot stone massage is delightful.   
+LORCA: Where are we?   
+MUDD: Typical Starfleet. No fun at all. We are on a Klingon prison vessel. Particularly nasty one.   
+LORCA: What's a civilian like you doing on a Klingon prison vessel?   
+MUDD: The only crime I'm guilty of is loving too much. It's true, Captain. I fell for a woman far beyond my reach. Sweet Stella. Her family didn't approve of me, so I had no choice except to try and buy her father's respect. Scary, scary man. So I borrowed a large sum from some non-traditional lenders, and gifted her with a moon. It worked like a charm, until I fell behind in my payments. Huh. The creditors came after me, chased me into enemy territory, right into the Klingons' arms, who deposited me here, where I await my fate.   
+(Another man in a Starfleet uniform groans.)   
+MUDD: Oh, I wouldn't bother with him, Captain. I believe the technical term for his condition is out to lunch. Here comes the floor show.   
+KLINGON: Choose your pain.   
+(Mudd points at the groaning man, who gets picked up and thrown around the cell to the cracking of bones and finally gets stomped in the face and dragged out.)   
+MUDD: They may look stupid, our Klingon hosts. They're anything but. They regularly give us the choice to choose our pain. We can accept the beating ourselves, or pass it on to our cellmates. It's our captors' way of keeping us from bonding.   
+LORCA: You seem conspicuously free from bruises.   
+MUDD: I've learned how to choose wisely. Don't judge. You're gonna wanna stick with me. I'm a survivor, just like you. 
+
+[Engineering]
+
+CULBER: You should know that Lieutenant Stamets rarely, if ever, listens to me.   
+BURNHAM: I can handle him.   
+CULBER: Please, show me how.   
+BURNHAM: Lieutenant Stamets. Your spore drive is genius. Beyond genius. What you've achieved for the war effort, for the whole of science itself, it's a contribution   
+STAMETS: I know I'm brilliant. What are you trying to get out of me? Why are you with her?   
+CULBER: Burnham is worried about the physical effects that Discovery's jumps are having on the Tardigrade. I've done my own evaluations, and I must concur. Scans of its frontal lobe show significant cumulative deterioration every time we go to black alert.   
+BURNHAM: We need to find a work-around. Making Ripper the critical component for the s-drive is unsustainable for the creature and your invention.   
+CULBER: We could lose them both, and with them, any chance of saving Captain Lorca.   
+STAMETS: Aren't there actual people on this ship who require your attention, Doctor?   
+CULBER: Actually, the CMO does need my help with an Andorian tonsillectomy. (leaves)   
+STAMETS: To be clear, the Tardigrade was your contribution. I never intended to utilise a living creature as a navigation tool.   
+BURNHAM: I didn't, either.   
+STAMETS: You say portabella, I say portobello. You are the cause of this situation, Burnham. What are you doing with your mouth?   
+BURNHAM: I am swallowing the urge to set the record straight.   
+STAMETS: That won't get us anywhere. Do you want to be right, or do you want to fix this? 
+
+[Prison cell]
+
+(Mudd is snoring.)   
+LORCA: I didn't realise there were more of us in here.   
+TYLER: I've been pulled out of rotation. Sometimes they let us heal up, so we last longer. Shit, you're a Captain? Here, eat.   
+LORCA: No, you go ahead.   
+TYLER: Sorry sir, I'm going to have to insist. We never know when they'll feed us. You get keep up your strength. I already lost one Captain, I won't lose another.   
+LORCA: What's your name, soldier?   
+TYLER: Lieutenant Ash Tyler.   
+LORCA: And the captain you lost?   
+TYLER: Steven Maranville, of the USS Yeager. The finest, sir.   
+LORCA: You were at the Battle of the Binaries?   
+TYLER: They gave it a name, huh? That's where I was captured.   
+LORCA: So you've been here seven months. That's funny to you?   
+TYLER: Sorry, sir. It's just, er, if that's true, I'm tougher than I thought.   
+LORCA: Or a liar. Nobody survives Klingon torture for seven months. What are you doing here? They got a reason to keep you alive? The Captain of this ship, she's taken a liking to me.   
+LORCA: You must've picked up a few details. What's the crew complement of this vessel?   
+TYLER: Can't be certain. Thirty, maybe forty.   
+LORCA: You got a sense of the layout of the decks?   
+TYLER: Uh-huh.   
+(Mudd's snoring stopped a while ago.)   
+LORCA: I gotta get my hands on an active comm relay so I can signal my ship for extraction.   
+TYLER: We're deep in enemy territory. There's no way a Federation ship can make it out this far undetected.   
+LORCA: Oh, my ship can. It's like a ghost.   
+(An insect scurries up, grabs Tyler's morsel of food and runs off.)   
+TYLER: Mudd, if I see that pet of yours again Come on, come on, come on.   
+MUDD: Apologises, Lieutenant. Stuart has boundary issues. And besides, we're both a little hungry.   
+LORCA: You'd take food out of the mouths of the only two men standing between you and death?   
+MUDD: Damn right I would. Because this is all Starfleet has left me. I used to have a life, Captain. A good one. A respectable business. That all got blown up, because of your goddamn war.   
+LORCA: Starfleet didn't start this war.   
+MUDD: Of course you did. The moment you decided to boldly go where no one had gone before. What do you think would happen when you bump into someone who didn't want you in their front yard?   
+TYLER: You're siding with the enemy?   
+MUDD: I'm not siding with anyone. But I sure as hell understand why the Klingons pushed back. Starfleet arrogance. Have you ever bothered to look out of your spaceships down at the little guys below? If you had, you'd realise that there's a lot more of us down there than there are you up here, and we're sick and tired of getting caught in your crossfire.   
+(Klingons come and take Lorca out.) 
+
+[Engineering]
+
+STAMETS: So we need the spore drive to save Captain Lorca, but the spore drive is killing the Tardigrade. All right, let's start with our mushroom, prototaxites stellaviatori, a species made up of exotic material found not only in normal space, but in a discreet subspace domain known as the mycelial network. Its fungal roots, a.k.a. mycelium, spread across the universe, fanning out into infinity to create a matrix that serves as our intergalactic freeway system.   
+BURNHAM: Enter the Tardigrade, whose unique genetic makeup allows it to navigate through the network, because of its symbiotic relationship with the mycelium's spores. Like its microscopic cousins on Earth, the Tardigrade is able to incorporate foreign DNA into its own genome via horizontal gene transfer. When Ripper borrows DNA from the mycelium, he's granted an all-access travel pass.   
+TILLY: Once Lieutenant Stamets conveys the coordinates of a selected destination directly into Ripper he knows exactly where to go. As the Tardigrade's DNA is already sequenced into the computer, can't we build a virtual Ripper? Trick the mycelium into thinking it's communicating with the real thing, and then navigate the ship that way?   
+STAMETS: That's what I am doing with my earlier research. Trying to use software to engage with the network.   
+BURNHAM: And you were only able to achieve small jumps.   
+STAMETS: See now I know why. The spores and the drive were functioning at a fraction of their capacity until we presented the mycelium with an animate copilot. That's the key. The Tardigrade's alive. We just need to integrate the same sequence into a compatible species, one that understands its role in this process and engages willingly.   
+TILLY: You guys, this is so fucking cool. I'm so sorry.   
+STAMET: No, Cadet. It is fucking cool.   
+BURNHAM: Let's do it. 
+
+[Klingon ship]
+
+(Lorca is strapped into a metal chair.)   
+L'RELL: Have you ever been tortured, Captain?   
+LORCA: Your English, it's excellent.   
+L'RELL: I'm descended from spies. Languages are useful, particularly when it comes to understanding those who seek to destroy the Klingon Empire.   
+LORCA: Little old me?   
+L'RELL: You've been busy these past three weeks, Captain Lorca. It was you who first surprised us in the Corvan system, appearing out of nowhere and then disappearing without a trace. Undetectable. Like a ghost. No other Starfleet vessel can do that. What is your vessel's secret?   
+LORCA: I have no idea what you're talking about.   
+L'RELL: Mmm. You suffer from extreme photosensitivity.   
+LORCA: Well, we all got something, honey. I hear you're seeking solace in the arms of a human male. We don't even have the right number of organs for you. Why so hard-up?   
+(She punches him.)   
+LORCA: Now who's being sensitive?   
+L'RELL: How strange space must look to you now, seen through those damaged eyes. A cosmos full of agonising light. Another creature might have slunk back into the darkness, but not you. You seek glory.   
+(She puts an eyelid speculum onto Lorca.)   
+L'RELL: Perhaps you realise glory must be earned through sacrifice and pain.   
+(Three bright lights are shone into his eyes. Lorca screams.) 
+
+[Bridge]
+
+SARU: Lieutenant Rhys, when will analysis of our long-range sensor data be complete? It is our only hope of closing in on Captain Lorca's location.   
+RHYS: We've narrowed it down to three potential courses, all of which pass near or through the Mempa System.   
+(And past Rura Penthe, fans.)   
+SARU: Very good. Alert Mister Stamets we're ready to proceed with our rescue mission.   
+OWOSEKUN: Lieutenant Stamets has taken the spore drive offline, sir. 
+
+[Engineering]
+
+STAMETS: I don't understand. You'd think any number of species would be compatible recipients of the Tardigrade DNA sequence.   
+TILLY: I had the computer run all known life forms in the Federation database. Should I try to access the classified database at the Daystrom Institute?   
+SARU: No, Cadet, you should not. Why did you shut down the spore drive? Up on the Bridge, we're trying to pinpoint coordinates that will lead us to Captain Lorca.   
+STAMETS: We're working on something extremely important. A substitute for the Tardigrade.   
+SARU: Why?   
+STAMETS: Burnham informed me that our jumps are depleting it.   
+SARU: She brought these concerns to me as well, and I told her to stand down until Captain Lorca was safely back on board Discovery. Obviously, this was not the response she wanted.   
+BURNHAM: So far, we found one viable workaround. This hypospray contains Tardigrade DNA and replication catalysts that will initiate rapid horizontal gene transfer in a host. The interface process requires an evolved organism, a species with a highly functioning nervous system. And one that, like the Tardigrade, shares genetic information with mushrooms. The animal kingdom may have diverted from its fungal counterparts 600 million years ago, but Homo Sapiens still share over half of our DNA with them.   
+SARU: You want to use a human? Eugenics experiments are forbidden.   
+BURNHAM: I know. And that's why we need more time.   
+DARU: I gave you an order. Do you understand?   
+BURNHAM: Captain Saru, I understand that you are upset. You're in command. It's a time of crisis. And your culture trains you to be on the heightened lookout for enemies. But I assure you, I'm not one of them.   
+SARU: How dare you treat me like one of your xenoanthropology subjects? You're not an enemy, Burnham. You are a proven predator. And I know this not only because my instincts tell me that you are, but because your actions show me that you are. Saving this Tardigrade will neither bring back nor change the fact that this is exactly the kind of behavior that killed Captain Georgiou.   
+RHYS [OC]: Bridge to the Captain. We believe we have identified the battle cruiser that is holding Captain Lorca.   
+SARU: Acknowledged. Lieutenant Stamets, bring the drive back online, and prepare the Tardigrade to jump.   
+(to Burnham) Confine yourself to quarters immediately. 
+
+[Prison cell]
+
+(Lorca is returned. He goes over to Mudd and pushes him against the wall.)   
+MUDD: Now let's be adults, and use our words, please.   
+(Lorca takes Stuart the bug.)   
+LORCA: Stealing food was just a diversion. He's been transmitting everything we say to the enemy.   
+(He pulls a device off Stuart, drops it and stamps on it.)   
+LORCA: When I first got here, I dropped a little conversational nugget to see if either of you could be trusted, and I just had my words parroted back at me by the Klingon Captain. You've fed intel on every prisoner that passed through here. Ah!   
+(Lorca throws Stuart at the wall.)   
+MUDD: No! Stuart. Stuart. Oh, you almost killed him.   
+TYLER: You're finished. And when it's time to choose our pain, we're choosing you, until there's nothing left.   
+MUDD: Captain, are you really gonna let this idealistic young man humiliate himself by siding with you, hmm? Have you no decency, Lorca? Actually, that was a trick question. I know you don't. We both know you lost that with your last command.   
+TYLER: What's he talking about?   
+MUDD: The tragic tale of the USS Buran. It was ambushed about a month into the war. The Klingons boarded it and blasted it into smithereens. Only one crewman managed to escape. Gabriel Lorca. Apparently, the honourable Captain was too good to go down with his ship.   
+LORCA: Mudd's only half right. We were ambushed, and I did escape, but I didn't let my crew die. I blew them up. I knew what awaited them on Qo'noS. Degradation. Torture. Slow, public death. It's the Klingon way to spread terror. Not my crew. Not on my watch.   
+MUDD: Well, they say confession is good for the soul. Too bad none of us have one anymore. 
+
+[Bridge]
+
+SARU: Commander Airiam, set displacement parameters to bring us within weapons range of our target Bird-of-Prey.   
+AIRIAM: Aye, sir.   
+SARU: Lieutenant Stamets, are you ready?   
+STAMETS [OC]: Yes, Captain.   
+SARU: Black alert.   
+(The Tardigrade is beamed into the cell and the nav computer attaches.)   
+SARU: Go.   
+(Discovery jumps. The nav computer disengages and the Tardigrade collapses. Stamets and Tilly rush into the cell to watch the creature shrivel and shrink, water pouring out of it.) 
+
+[Bridge]
+
+CULBER: The creature has gone into a state of extreme cryptobiosis by reducing the water content levels of its body to less than one percent. Its vital signs have slowed to the point we can barely detect them.   
+SARU: Rehydrate it and bring it back. Mister Rhys, have we been detected?   
+RHYS: Negative.   
+CULBER: Captain Saru, I'm not   
+SARU: Location of Klingon prison ship.   
+OWOSEKUN: Point-seven AUs from our position, bearing 13 mark 59.   
+SARU: Match their course and speed, maintain our distance. Cut all systems and run silent.   
+CULBER: Captain, we're not done here. This isn't like waking someone from a nap. This is an extreme reaction to adverse conditions. The Tardigrade is in survival mode.   
+SARU: So are we, Doctor. Crack it open if you have to.   
+CULBER: In my opinion, that will kill it.   
+SARU: As it is our only way to get out of Klingon space, it is a risk we must take.   
+CULBER: Captain, neurological tests indicate that this creature may be sentient.   
+SARU: If that ends up being true, I will face the consequences of my actions. I do not enjoy being in this position, but I have 134 souls to protect today. Be ready to force the creature to comply.   
+CULBER: I will not be party to murder.   
+SARU: Doctor, I was not talking to you. Do you understand my orders, and can I count on you to follow them, Lieutenant Stamets?   
+STAMETS: Yes, sir. 
+
+[Prison cell]
+
+KLINGON: Choose your pain.   
+TYLER: Choose me, Captain.   
+MUDD: I fully support that idea.   
+TYLER: You do this for me. Choose me.   
+KLINGON: Choose your pain.   
+MUDD: Oh, thank you, thank you, thank you. Thank you, thank you, thank you.   
+(The Klingon slaps Tyler around and throws him against the wall. Then he turns to Lorca, who attacks the other Klingon while Tyler gets up and has a go at his attacker. They break the Klingons' necks and take their weapons.)   
+MUDD: Where the hell did that come from?   
+TYLER: Getting out of here was always a two-man job. I just waited till I found the right man.   
+MUDD: You played me? Oh, bravura, Mister Tyler. I doff my cap. Now, shall we proceed to our Raider?   
+LORCA: There is no we, Mudd. You sold us out. You stay.   
+MUDD: You can't be serious.   
+LORCA: Oh, but I can.   
+(Lorca hits Mudd with the rifle butt.)   
+MUDD: You can't do this. No, I can't take it in here anymore. Please, I promised Stella that I would come home to her. Please. I promised. No. No. No.   
+(They shut Mudd in the cell.) 
+
+[Klingon corridor]
+
+MUDD [OC]: You can't walk away from me, Lorca. I'm coming for you. You hear? You haven't seen the last of Harcourt Fenton Mudd.   
+(The men vaporise two Klingons with their stolen disrupters, and kill another with its own bat'leth. But a fourth injures Tyler before Lorca can kill it. Lorca carries him a way, then Tyler falls.)   
+LORCA: Get up, soldier. Get up.   
+TYLER: I'm slowing you down, sir. Go.   
+LORCA: All right, take cover. I'll find a way out and I'll come back for you, understand?   
+(Lorca goes round the corner.)   
+L'RELL: Did you really think you could leave me? After all we've been through.   
+(Tyler and L'Rell fight. Tyler gets her on the deck and pummels her face. Lorca returns and vaporises an approaching Klingon. L'Rell pushes Tyler off, and catches the edge of a disrupter ray to the side of her face. She falls, screaming.)   
+LORCA: Tyler, I found the docking bay. Get up. Let's go.   
+(L'Rell screams as her face burns up. 
+
+[Klingon Raider]
+
+(Small, near-transparent runabouts with turkey-tails.)   
+LORCA: Redirect all auxiliary power to shields. Blue panel on the right. Five Raiders in pursuit, closing fast.   
+TYLER: Your eyes. That happened when you destroyed the Buran, didn't it?   
+LORCA: We choose our own pain. Mine helps me remember. 
+
+[Bridge]
+
+RHYS: Target positions of incoming Raiders and prepare to establish   
+DETMER: Klingon Raiders, sir. Five ships and counting, heading right towards us.   
+SARU: Red alert.   
+OWOSEKUN: We must've been spotted, sir.   
+RHYS: Shall I lock on and prepare to fire?   
+SARU: The leader of the pack seems to have charted an erratic flight pattern.   
+RHYS: We are now within their weapons range. Should I lock phasers, sir?   
+SARU: Predator packs often split into smaller groups while in pursuit. One group initiating the chase, while another travels ahead of the prey's escape path. Hail that Raider.   
+RICHTER: Initiating communication will expose our position.   
+SARU: The lead vessel is being chased. It's our Captain.   
+RICHTER: Federation Starship Discovery to Klingon Raider. 
+
+[Klingon Raider]
+
+RICHTER [OC]: Identify yourself.   
+LORCA: Well, what do you know? The cavalry showed up. This is Captain Lorca. 
+
+[Bridge]
+
+LORCA [OC]: Two to beam out. Now.   
+SARU: Bridge to transporter room. You have a lock?   
+TRANSPORTER CHIEF [OC] Aye, sir.   
+SARU: Lower your shields, Captain Lorca.   
+(Lorca and Tyler are beamed out just before the Raider is destroyed.) 
+
+[Transporter room]
+
+(Tyler collapses on the pad.)   
+LORCA: Captain to Bridge. You got us. Jump. Jump now. 
+
+[Bridge]
+
+SARU: Lieutenant Stamets, have you revived the Tardigrade?   
+STAMETS [OC]: We are able to jump, Commander.   
+RHYS: The Klingon Raiders detected our transporter signature. - They're locking weapons.   
+SARU: Black alert. Go. 
+
+[Transporter room]
+
+LORCA: Easy, soldier. You're home.   
+TYLER: Thank you, Captain.   
+LORCA: For what? Dragging you back into the war on a ship with a target on its back?   
+TYLER: There's no place I'd rather be. 
+
+[Bridge]
+
+SARU: Bridge to Stamets. Congratulations, Lieutenant. Excellent work. Lieutenant Stamets, do you copy?   
+OWOSEKUN: Sir, Stamets is in Engineering, but it seems his lifesigns are in distress. 
+
+[Engineering]
+
+COMPUTER: Warning. Failure to initiate spore-drive deactivation sequence. Spore chamber active. Density at 68 percent. Drive system online.   
+SARU: Open this door.   
+COMPUTER: Induction coil saturated.   
+TILLY: Captain, he... he injected himself with the Tardigrade DNA and compound. Is he dead?   
+(Saru checks for a pulse, Stamets gasps.)   
+STAMETS: Did we make it?   
+SARU: Yes.   
+(Stamets laughs hysterically.) 
+
+[Quarters]
+
+(Door bell.)   
+BURNHAM: Come.   
+(Saru enters.)   
+SARU: Captain Lorca has been rescued. On the subject of the Tardigrade, there has been a setback.   
+BURNHAM: Cadet Tilly brought me up to speed. Sir, permission to speak freely. Are you really afraid of me?   
+SARU: I am not. I am angry at you. Angry because of how much you stole from me. I am deeply jealous that I never got the chance you had.   
+BURNHAM: To be Captain Georgiou's First Officer.   
+SARU: You stood by her side and learned everything she had to teach. The anticipated scenario, you would move up and out, Captain your own starship, and I would take your place. I never got that chance. If I had, I would've been more prepared for today.   
+BURNHAM: You did well. Very well. She would've thought so, too.   
+(Burnham gets the case out from under the bed and opens it.)   
+SARU: Her telescope.   
+BURNHAM: She left it to me. It's yours now. You should have the privilege to see the universe the way she did.   
+SARU: Burnham. Captain Lorca has yet to be cleared for command. I have much to attend to, and I could use your help with one thing.   
+BURNHAM: Of course.   
+SARU: Doctor Culber believes the Tardigrade is sentient. It remains in a state of cryptobiosis. We have no claim on its soul. Go save its life, Burnham. That's an order. 
+
+[EV chamber]
+
+TILLY: May the sun and moon watch your comings and goings in the endless nights and days that are before you. Are you sure this will work?   
+BURNHAM: No. But if this is its response to an adverse environment, what does it consider to be hospitable? This creature has traveled to the ends of the universe. My hope is that what makes it most happy is to be free.   
+(Burnham pours a small container of spores onto the Tardigrade husk. Tilly activates the platform it is on and it rises up to an airlock, from where it is ejected into space. The creature revives, connects to the mycelium network and jumps away.) 
+
+[Ready room]
+
+COMPUTER: Initiating performance review, Acting Captain Saru. Protocol cancelled.   
+SARU: I know what I did. 
+
+[Stamets / Culber Quarters]
+
+(Culber is scanning Stamets with a medical tricorder while he brushes his teeth.)   
+STAMETS: Stop.   
+CULBER: Stop what?   
+STAMETS: Stop worrying. Stop doctoring.   
+CULBER: Well, one tends to worry when they're doomed to love a brilliant but reckless maniac who's willing to risk his life for glory.   
+STAMETS: The captain was in danger.   
+CULBER: Captains are in danger every day.   
+STAMETS: You were in danger. I've spent my entire career trying to grasp the essence of mycelium. Now for the first time I do. I saw the network. An entire universe of possibilities I never dreamed existed. It's unspeakably beautiful. I also knew you'd leave me if I let anything else endanger that creature.   
+CULBER: Oh, so you do listen to me.   
+STAMETS: Not really. You sold that with a look.   
+CULBER: Don't do anything that stupid again. You may not care about you but I do. You sure you feel okay?   
+STAMETS: Yes, dear Doctor. I feel okay.   
+CULBER: Okay.   
+(Stamets turns away from the bathroom mirror, and his reflection watches him leave before turning away itself.)   
+---  
+  
+Star Trek ® is copyright of  CBS Studios Inc . Copyright (C) 1966, Present. The Star Trek web pages on this site are for educational and entertainment purposes only. All other copyrights property of their respective holders.
