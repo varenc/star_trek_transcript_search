@@ -8,7 +8,7 @@ Check out this repo, and put it somewhere you like:
 $ git checkout https://github.com/varenc/star_trek_transcript_search
 $ cd star_trek_transcript_search/scripts
 $ ls
-DIS		DS9		Enterprise	Movies		NextGen		StarTrek	TAS		Voyager
+DS9		Discovery	Enterprise	Movies		NextGen		TAS		TOS		Voyager
 ```
 ## search commands
 Now search the transcripts. Here's the most basic command for searching:
