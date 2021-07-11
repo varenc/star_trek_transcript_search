@@ -61,8 +61,9 @@ TAS             67066        22           3048
 TOS             423886       79           5365
 Voyager         960510       160          6003
 ```
+(Note: not super accurate since the transcripts include some descriptions of what's happening on screen and the name of each speaker.  Running this on subtitles instead of transcripts would be more accurate.)
 
-Find the episodes where a chacter has the fewest/shortest lines, and then run it on Worf and then Tom Paris
+Make a function to find the episodes where a chacter has the fewest/shortest lines, and then run it on Worf and then Tom Paris
 
 ```sh
 $ trekQuietestEpisodesFor () {
