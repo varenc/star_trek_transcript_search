@@ -21,14 +21,14 @@ For example:
 
 ```sh
 $ grep -rin "terraform.*venus" .
-./scripts/DS9/200457.txt:401:O'BRIEN: All of it. The Utopia Planitia yards on Mars, the terraforming stations on Venus, Starfleet Headquarters. I'm not detecting a single sign of Starfleet activity anywhere in this sector.
+./DS9/200457.txt:401:O'BRIEN: All of it. The Utopia Planitia yards on Mars, the terraforming stations on Venus, Starfleet Headquarters. I'm not detecting a single sign of Starfleet activity anywhere in this sector.
 ```
 
 For a better experience, use [The Silver Search (`ag`)](https://github.com/ggreer/the_silver_searcher) instead of `grep`
 
 ```sh
 $ ag "terraform.*venus" .
-scripts/DS9/200457.txt
+DS9/200457.txt
 401:O'BRIEN: All of it. The Utopia Planitia yards on Mars, the terraforming stations on Venus, Starfleet Headquarters. I'm not detecting a single sign of Starfleet activity anywhere in this sector.
 
 ```
