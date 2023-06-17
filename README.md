@@ -5,7 +5,7 @@ Transcripts of all of Star Trek and some commands to search them
 Check out this repo, and put it somewhere you like:
 
 ```sh
-$ git checkout https://github.com/varenc/star_trek_transcript_search
+$ git clone https://github.com/varenc/star_trek_transcript_search
 $ cd star_trek_transcript_search/scripts
 $ ls
 DS9		Discovery	Enterprise	Movies		NextGen		TAS		TOS		Voyager
